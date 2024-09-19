@@ -1,0 +1,2205 @@
+raceId,round,circuitId,name,date,time,driverStandingsId,driverId,points,wins,driverRef
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68610,1,18.0,0,hamilton
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68612,817,12.0,0,ricciardo
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68613,4,10.0,0,alonso
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68614,830,8.0,0,max_verstappen
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68615,807,6.0,0,hulkenberg
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68616,822,4.0,0,bottas
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68618,832,1.0,0,sainz
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68619,815,0.0,0,perez
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68620,839,0.0,0,ocon
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68621,844,0.0,0,leclerc
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68622,840,0.0,0,stroll
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68625,825,0.0,0,kevin_magnussen
+989,1,1,Australian Grand Prix,25/03/2018,05:10:00,68626,842,0.0,2,gasly
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68690,1,33.0,0,hamilton
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68692,817,12.0,0,ricciardo
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68693,4,16.0,0,alonso
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68694,830,8.0,0,max_verstappen
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68695,807,14.0,0,hulkenberg
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68696,822,22.0,0,bottas
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68698,832,1.0,0,sainz
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68699,815,0.0,0,perez
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68700,839,1.0,0,ocon
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68701,844,0.0,0,leclerc
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68702,840,0.0,0,stroll
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68705,825,10.0,0,kevin_magnussen
+990,2,3,Bahrain Grand Prix,08/04/2018,15:10:00,68706,842,12.0,0,gasly
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68670,1,45.0,0,hamilton
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68672,817,37.0,0,ricciardo
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68673,4,22.0,0,alonso
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68674,830,18.0,0,max_verstappen
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68675,807,22.0,0,hulkenberg
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68676,822,40.0,0,bottas
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68678,832,3.0,0,sainz
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68679,815,0.0,0,perez
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68680,839,1.0,0,ocon
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68681,844,0.0,0,leclerc
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68682,840,0.0,0,stroll
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68685,825,11.0,0,kevin_magnussen
+991,3,17,Chinese Grand Prix,15/04/2018,06:10:00,68686,842,12.0,0,gasly
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68710,1,70.0,1,hamilton
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68712,817,37.0,0,ricciardo
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68713,4,28.0,0,alonso
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68714,830,18.0,0,max_verstappen
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68715,807,22.0,0,hulkenberg
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68716,822,40.0,0,bottas
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68718,832,13.0,0,sainz
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68719,815,15.0,0,perez
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68720,839,1.0,0,ocon
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68721,844,8.0,0,leclerc
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68722,840,4.0,0,stroll
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68725,825,11.0,0,kevin_magnussen
+992,4,73,Azerbaijan Grand Prix,29/04/2018,12:10:00,68726,842,12.0,0,gasly
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68730,1,95.0,2,hamilton
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68732,817,47.0,0,ricciardo
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68733,4,32.0,0,alonso
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68734,830,33.0,0,max_verstappen
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68735,807,22.0,0,hulkenberg
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68736,822,58.0,0,bottas
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68738,832,19.0,0,sainz
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68739,815,17.0,0,perez
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68740,839,1.0,0,ocon
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68741,844,9.0,0,leclerc
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68742,840,4.0,0,stroll
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68745,825,19.0,0,kevin_magnussen
+993,5,4,Spanish Grand Prix,13/05/2018,13:10:00,68746,842,12.0,0,gasly
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68750,1,110.0,0,hamilton
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68752,817,72.0,3,ricciardo
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68753,4,32.0,1,alonso
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68754,830,35.0,0,max_verstappen
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68755,807,26.0,0,hulkenberg
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68756,822,68.0,0,bottas
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68758,832,20.0,0,sainz
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68759,815,17.0,0,perez
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68760,839,9.0,0,ocon
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68761,844,9.0,0,leclerc
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68762,840,4.0,0,stroll
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68765,825,19.0,0,kevin_magnussen
+994,6,6,Monaco Grand Prix,27/05/2018,13:10:00,68766,842,18.0,0,gasly
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68770,1,120.0,0,hamilton
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68772,817,84.0,0,ricciardo
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68773,4,32.0,3,alonso
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68774,830,50.0,3,max_verstappen
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68775,807,32.0,1,hulkenberg
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68776,822,86.0,0,bottas
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68778,832,24.0,0,sainz
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68779,815,17.0,0,perez
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68780,839,11.0,0,ocon
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68781,844,10.0,0,leclerc
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68782,840,4.0,0,stroll
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68785,825,19.0,0,kevin_magnussen
+995,7,7,Canadian Grand Prix,10/06/2018,18:10:00,68786,842,18.0,0,gasly
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68790,1,145.0,0,hamilton
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68792,817,96.0,0,ricciardo
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68793,4,32.0,0,alonso
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68794,830,68.0,0,max_verstappen
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68795,807,34.0,3,hulkenberg
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68796,822,92.0,3,bottas
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68798,832,28.0,0,sainz
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68799,815,17.0,0,perez
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68800,839,11.0,0,ocon
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68801,844,11.0,0,leclerc
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68802,840,4.0,0,stroll
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68805,825,27.0,0,kevin_magnussen
+996,8,34,French Grand Prix,24/06/2018,14:10:00,68806,842,18.0,0,gasly
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68810,1,145.0,0,hamilton
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68812,817,96.0,0,ricciardo
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68813,4,36.0,0,alonso
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68814,830,93.0,0,max_verstappen
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68815,807,34.0,0,hulkenberg
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68816,822,92.0,0,bottas
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68818,832,28.0,4,sainz
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68819,815,23.0,2,perez
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68820,839,19.0,0,ocon
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68821,844,13.0,0,leclerc
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68822,840,4.0,0,stroll
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68825,825,37.0,0,kevin_magnussen
+997,9,70,Austrian Grand Prix,01/07/2018,13:10:00,68826,842,18.0,0,gasly
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68830,1,163.0,0,hamilton
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68832,817,106.0,0,ricciardo
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68833,4,40.0,1,alonso
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68834,830,93.0,0,max_verstappen
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68835,807,42.0,0,hulkenberg
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68836,822,104.0,0,bottas
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68838,832,28.0,0,sainz
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68839,815,24.0,4,perez
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68840,839,25.0,4,ocon
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68841,844,13.0,2,leclerc
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68842,840,4.0,0,stroll
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68845,825,39.0,0,kevin_magnussen
+998,10,9,British Grand Prix,08/07/2018,13:10:00,68846,842,18.0,0,gasly
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68850,1,188.0,0,hamilton
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68852,817,106.0,0,ricciardo
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68853,4,40.0,0,alonso
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68854,830,105.0,0,max_verstappen
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68855,807,52.0,1,hulkenberg
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68856,822,122.0,0,bottas
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68858,832,28.0,0,sainz
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68859,815,30.0,0,perez
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68860,839,29.0,0,ocon
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68861,844,13.0,0,leclerc
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68862,840,4.0,4,stroll
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68865,825,39.0,0,kevin_magnussen
+999,11,10,German Grand Prix,22/07/2018,13:10:00,68866,842,18.0,0,gasly
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68870,1,213.0,0,hamilton
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68872,817,118.0,0,ricciardo
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68873,4,44.0,0,alonso
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68874,830,105.0,0,max_verstappen
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68875,807,52.0,0,hulkenberg
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68876,822,132.0,0,bottas
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68878,832,30.0,1,sainz
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68879,815,30.0,0,perez
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68880,839,29.0,0,ocon
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68881,844,13.0,0,leclerc
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68882,840,4.0,0,stroll
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68885,825,45.0,4,kevin_magnussen
+1000,12,11,Hungarian Grand Prix,29/07/2018,13:10:00,68886,842,26.0,6,gasly
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68890,1,231.0,0,hamilton
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68892,817,118.0,0,ricciardo
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68893,4,44.0,0,alonso
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68894,830,120.0,0,max_verstappen
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68895,807,52.0,0,hulkenberg
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68896,822,144.0,0,bottas
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68898,832,30.0,0,sainz
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68899,815,40.0,0,perez
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68900,839,37.0,0,ocon
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68901,844,13.0,1,leclerc
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68902,840,4.0,0,stroll
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68905,825,49.0,0,kevin_magnussen
+1001,13,13,Belgian Grand Prix,26/08/2018,13:10:00,68906,842,28.0,0,gasly
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68950,1,256.0,2,hamilton
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68952,817,118.0,0,ricciardo
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68953,4,44.0,0,alonso
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68954,830,130.0,0,max_verstappen
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68955,807,52.0,0,hulkenberg
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68956,822,159.0,0,bottas
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68958,832,34.0,0,sainz
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68959,815,46.0,0,perez
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68960,839,45.0,0,ocon
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68961,844,13.0,0,leclerc
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68962,840,6.0,0,stroll
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68965,825,49.0,0,kevin_magnussen
+1002,14,14,Italian Grand Prix,02/09/2018,13:10:00,68966,842,28.0,0,gasly
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68970,1,281.0,0,hamilton
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68972,817,126.0,7,ricciardo
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68973,4,50.0,2,alonso
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68974,830,148.0,0,max_verstappen
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68975,807,53.0,1,hulkenberg
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68976,822,171.0,0,bottas
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68978,832,38.0,0,sainz
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68979,815,46.0,0,perez
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68980,839,45.0,0,ocon
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68981,844,15.0,0,leclerc
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68982,840,6.0,0,stroll
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68985,825,49.0,0,kevin_magnussen
+1003,15,15,Singapore Grand Prix,16/09/2018,12:10:00,68986,842,28.0,0,gasly
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68990,1,306.0,0,hamilton
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68992,817,134.0,0,ricciardo
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68993,4,50.0,0,alonso
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68994,830,158.0,0,max_verstappen
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68995,807,53.0,4,hulkenberg
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68996,822,189.0,8,bottas
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68998,832,38.0,0,sainz
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,68999,815,47.0,1,perez
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,69000,839,47.0,0,ocon
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,69001,844,21.0,0,leclerc
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,69002,840,6.0,0,stroll
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,69005,825,53.0,0,kevin_magnussen
+1004,16,71,Russian Grand Prix,30/09/2018,11:10:00,69006,842,28.0,0,gasly
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69010,1,331.0,0,hamilton
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69012,817,146.0,0,ricciardo
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69013,4,50.0,0,alonso
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69014,830,173.0,0,max_verstappen
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69015,807,53.0,0,hulkenberg
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69016,822,207.0,0,bottas
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69018,832,39.0,0,sainz
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69019,815,53.0,4,perez
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69020,839,49.0,9,ocon
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69021,844,21.0,2,leclerc
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69022,840,6.0,0,stroll
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69025,825,53.0,0,kevin_magnussen
+1005,17,22,Japanese Grand Prix,07/10/2018,05:10:00,69026,842,28.0,0,gasly
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69050,1,346.0,0,hamilton
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69052,817,146.0,0,ricciardo
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69053,4,50.0,0,alonso
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69054,830,191.0,0,max_verstappen
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69055,807,61.0,1,hulkenberg
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69056,822,217.0,0,bottas
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69058,832,45.0,0,sainz
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69059,815,57.0,0,perez
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69060,839,49.0,0,ocon
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69061,844,21.0,0,leclerc
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69062,840,6.0,0,stroll
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69065,825,53.0,9,kevin_magnussen
+1006,18,69,United States Grand Prix,21/10/2018,18:10:00,69066,842,28.0,2,gasly
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69070,1,358.0,0,hamilton
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69072,817,146.0,0,ricciardo
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69073,4,50.0,0,alonso
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69074,830,216.0,0,max_verstappen
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69075,807,69.0,0,hulkenberg
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69076,822,227.0,0,bottas
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69078,832,45.0,0,sainz
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69079,815,57.0,0,perez
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69080,839,49.0,1,ocon
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69081,844,27.0,0,leclerc
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69082,840,6.0,0,stroll
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69085,825,53.0,0,kevin_magnussen
+1007,19,32,Mexican Grand Prix,28/10/2018,19:10:00,69086,842,29.0,0,gasly
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69090,1,383.0,9,hamilton
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69092,817,158.0,0,ricciardo
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69093,4,50.0,2,alonso
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69094,830,234.0,0,max_verstappen
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69095,807,69.0,0,hulkenberg
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69096,822,237.0,0,bottas
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69098,832,45.0,0,sainz
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69099,815,58.0,0,perez
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69100,839,49.0,0,ocon
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69101,844,33.0,0,leclerc
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69102,840,6.0,0,stroll
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69105,825,55.0,1,kevin_magnussen
+1008,20,18,Brazilian Grand Prix,11/11/2018,17:10:00,69106,842,29.0,0,gasly
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69110,1,408.0,0,hamilton
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69112,817,170.0,0,ricciardo
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69113,4,50.0,0,alonso
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69114,830,249.0,5,max_verstappen
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69115,807,69.0,9,hulkenberg
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69116,822,247.0,3,bottas
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69118,832,53.0,2,sainz
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69119,815,62.0,0,perez
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69120,839,49.0,0,ocon
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69121,844,39.0,0,leclerc
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69122,840,6.0,0,stroll
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69125,825,56.0,0,kevin_magnussen
+1009,21,24,Abu Dhabi Grand Prix,25/11/2018,13:10:00,69126,842,29.0,0,gasly
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69749,822,26.0,0,bottas
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69750,1,18.0,0,hamilton
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69751,830,15.0,0,max_verstappen
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69753,844,10.0,0,leclerc
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69754,825,8.0,0,kevin_magnussen
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69755,807,6.0,0,hulkenberg
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69757,840,2.0,0,stroll
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69759,842,0.0,5,gasly
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69760,846,0.0,11,norris
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69761,815,0.0,1,perez
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69762,848,0.0,2,albon
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69764,847,0.0,2,russell
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69767,817,0.0,0,ricciardo
+1010,1,1,Australian Grand Prix,17/03/2019,05:10:00,69768,832,0.0,0,sainz
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69209,822,44.0,0,bottas
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69210,1,43.0,1,hamilton
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69211,830,27.0,0,max_verstappen
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69213,844,26.0,0,leclerc
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69214,825,8.0,0,kevin_magnussen
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69215,807,6.0,0,hulkenberg
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69217,840,2.0,0,stroll
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69219,842,4.0,1,gasly
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69220,846,8.0,0,norris
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69221,815,1.0,0,perez
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69222,848,2.0,0,albon
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69224,847,0.0,0,russell
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69227,817,0.0,0,ricciardo
+1011,2,3,Bahrain Grand Prix,31/03/2019,15:10:00,69228,832,0.0,0,sainz
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69229,822,62.0,0,bottas
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69230,1,68.0,0,hamilton
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69231,830,39.0,0,max_verstappen
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69233,844,36.0,0,leclerc
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69234,825,8.0,0,kevin_magnussen
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69235,807,6.0,0,hulkenberg
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69237,840,2.0,0,stroll
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69239,842,13.0,0,gasly
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69240,846,8.0,0,norris
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69241,815,5.0,0,perez
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69242,848,3.0,0,albon
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69244,847,0.0,2,russell
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69247,817,6.0,0,ricciardo
+1012,3,17,Chinese Grand Prix,14/04/2019,06:10:00,69248,832,0.0,0,sainz
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69249,822,87.0,0,bottas
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69250,1,86.0,0,hamilton
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69251,830,51.0,0,max_verstappen
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69253,844,47.0,0,leclerc
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69254,825,8.0,0,kevin_magnussen
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69255,807,6.0,0,hulkenberg
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69257,840,4.0,0,stroll
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69259,842,13.0,0,gasly
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69260,846,12.0,2,norris
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69261,815,13.0,0,perez
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69262,848,3.0,0,albon
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69264,847,0.0,0,russell
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69267,817,6.0,0,ricciardo
+1013,4,73,Azerbaijan Grand Prix,28/04/2019,12:10:00,69268,832,6.0,0,sainz
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69289,822,105.0,0,bottas
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69290,1,112.0,0,hamilton
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69291,830,66.0,0,max_verstappen
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69293,844,57.0,0,leclerc
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69294,825,14.0,0,kevin_magnussen
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69295,807,6.0,0,hulkenberg
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69297,840,4.0,0,stroll
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69299,842,21.0,0,gasly
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69300,846,12.0,1,norris
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69301,815,13.0,0,perez
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69302,848,3.0,1,albon
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69304,847,0.0,0,russell
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69307,817,6.0,0,ricciardo
+1014,5,4,Spanish Grand Prix,12/05/2019,13:10:00,69308,832,10.0,0,sainz
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69309,822,120.0,0,bottas
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69310,1,137.0,0,hamilton
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69311,830,78.0,0,max_verstappen
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69313,844,57.0,0,leclerc
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69314,825,14.0,0,kevin_magnussen
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69315,807,6.0,0,hulkenberg
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69317,840,4.0,0,stroll
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69319,842,32.0,2,gasly
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69320,846,12.0,2,norris
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69321,815,13.0,0,perez
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69322,848,7.0,1,albon
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69324,847,0.0,0,russell
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69327,817,8.0,0,ricciardo
+1015,6,6,Monaco Grand Prix,26/05/2019,13:10:00,69328,832,18.0,0,sainz
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69329,822,133.0,0,bottas
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69330,1,162.0,0,hamilton
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69331,830,88.0,0,max_verstappen
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69333,844,72.0,0,leclerc
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69334,825,14.0,0,kevin_magnussen
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69335,807,12.0,0,hulkenberg
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69337,840,6.0,0,stroll
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69339,842,36.0,2,gasly
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69340,846,12.0,2,norris
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69341,815,13.0,0,perez
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69342,848,7.0,2,albon
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69344,847,0.0,0,russell
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69347,817,16.0,0,ricciardo
+1016,7,7,Canadian Grand Prix,09/06/2019,18:10:00,69348,832,18.0,0,sainz
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69409,822,151.0,0,bottas
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69410,1,187.0,0,hamilton
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69411,830,100.0,0,max_verstappen
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69413,844,87.0,0,leclerc
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69414,825,14.0,0,kevin_magnussen
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69415,807,16.0,0,hulkenberg
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69417,840,6.0,0,stroll
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69419,842,37.0,3,gasly
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69420,846,14.0,2,norris
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69421,815,13.0,0,perez
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69422,848,7.0,2,albon
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69424,847,0.0,0,russell
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69427,817,16.0,0,ricciardo
+1017,8,34,French Grand Prix,23/06/2019,13:10:00,69428,832,26.0,0,sainz
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69429,822,166.0,0,bottas
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69430,1,197.0,0,hamilton
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69431,830,126.0,0,max_verstappen
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69433,844,105.0,0,leclerc
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69434,825,14.0,0,kevin_magnussen
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69435,807,16.0,0,hulkenberg
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69437,840,6.0,0,stroll
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69439,842,43.0,3,gasly
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69440,846,22.0,3,norris
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69441,815,13.0,0,perez
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69442,848,7.0,2,albon
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69444,847,0.0,0,russell
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69447,817,16.0,0,ricciardo
+1018,9,70,Austrian Grand Prix,30/06/2019,13:10:00,69448,832,30.0,0,sainz
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69449,822,184.0,0,bottas
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69450,1,223.0,0,hamilton
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69451,830,136.0,0,max_verstappen
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69453,844,120.0,0,leclerc
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69454,825,14.0,0,kevin_magnussen
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69455,807,17.0,0,hulkenberg
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69457,840,6.0,0,stroll
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69459,842,55.0,3,gasly
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69460,846,22.0,3,norris
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69461,815,13.0,0,perez
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69462,848,7.0,2,albon
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69464,847,0.0,1,russell
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69467,817,22.0,0,ricciardo
+1019,10,9,British Grand Prix,14/07/2019,13:10:00,69468,832,38.0,0,sainz
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69489,822,184.0,0,bottas
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69490,1,225.0,0,hamilton
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69491,830,162.0,0,max_verstappen
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69493,844,120.0,0,leclerc
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69494,825,18.0,0,kevin_magnussen
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69495,807,17.0,0,hulkenberg
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69497,840,18.0,0,stroll
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69499,842,55.0,4,gasly
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69500,846,22.0,3,norris
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69501,815,13.0,0,perez
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69502,848,15.0,2,albon
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69504,847,0.0,1,russell
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69507,817,22.0,0,ricciardo
+1020,11,10,German Grand Prix,28/07/2019,13:10:00,69508,832,48.0,0,sainz
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69509,822,188.0,0,bottas
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69510,1,250.0,0,hamilton
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69511,830,181.0,0,max_verstappen
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69513,844,132.0,0,leclerc
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69514,825,18.0,0,kevin_magnussen
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69515,807,17.0,0,hulkenberg
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69517,840,18.0,0,stroll
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69519,842,63.0,4,gasly
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69520,846,24.0,4,norris
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69521,815,13.0,0,perez
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69522,848,16.0,2,albon
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69524,847,0.0,1,russell
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69527,817,22.0,0,ricciardo
+1021,12,11,Hungarian Grand Prix,04/08/2019,13:10:00,69528,832,58.0,0,sainz
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69529,822,203.0,0,bottas
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69530,1,268.0,0,hamilton
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69531,830,181.0,0,max_verstappen
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69533,844,157.0,0,leclerc
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69534,825,18.0,0,kevin_magnussen
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69535,807,21.0,0,hulkenberg
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69537,840,19.0,0,stroll
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69539,842,65.0,4,gasly
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69540,846,24.0,5,norris
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69541,815,21.0,0,perez
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69542,848,26.0,2,albon
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69544,847,0.0,1,russell
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69547,817,22.0,0,ricciardo
+1022,13,13,Belgian Grand Prix,01/09/2019,13:10:00,69548,832,58.0,0,sainz
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69549,822,221.0,0,bottas
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69550,1,284.0,0,hamilton
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69551,830,185.0,0,max_verstappen
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69553,844,182.0,0,leclerc
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69554,825,18.0,0,kevin_magnussen
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69555,807,31.0,0,hulkenberg
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69557,840,19.0,0,stroll
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69559,842,65.0,5,gasly
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69560,846,25.0,5,norris
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69561,815,27.0,0,perez
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69562,848,34.0,2,albon
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69564,847,0.0,1,russell
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69567,817,34.0,0,ricciardo
+1023,14,14,Italian Grand Prix,08/09/2019,13:10:00,69568,832,58.0,0,sainz
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69569,822,231.0,0,bottas
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69570,1,296.0,0,hamilton
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69571,830,200.0,0,max_verstappen
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69573,844,200.0,0,leclerc
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69574,825,18.0,0,kevin_magnussen
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69575,807,33.0,0,hulkenberg
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69577,840,19.0,0,stroll
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69579,842,69.0,0,gasly
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69580,846,31.0,0,norris
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69581,815,27.0,0,perez
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69582,848,42.0,0,albon
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69584,847,0.0,0,russell
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69587,817,34.0,0,ricciardo
+1024,15,15,Singapore Grand Prix,22/09/2019,12:10:00,69588,832,58.0,0,sainz
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69589,822,249.0,0,bottas
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69590,1,322.0,0,hamilton
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69591,830,212.0,0,max_verstappen
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69593,844,215.0,0,leclerc
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69594,825,20.0,1,kevin_magnussen
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69595,807,34.0,0,hulkenberg
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69597,840,19.0,6,stroll
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69599,842,69.0,5,gasly
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69600,846,35.0,7,norris
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69601,815,33.0,0,perez
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69602,848,52.0,2,albon
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69604,847,0.0,1,russell
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69607,817,34.0,0,ricciardo
+1025,16,71,Russian Grand Prix,29/09/2019,11:10:00,69608,832,66.0,0,sainz
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69649,822,274.0,0,bottas
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69650,1,338.0,0,hamilton
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69651,830,212.0,0,max_verstappen
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69653,844,223.0,0,leclerc
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69654,825,20.0,0,kevin_magnussen
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69655,807,34.0,0,hulkenberg
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69657,840,21.0,0,stroll
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69659,842,75.0,5,gasly
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69660,846,35.0,8,norris
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69661,815,37.0,0,perez
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69662,848,64.0,2,albon
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69664,847,0.0,1,russell
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69667,817,34.0,0,ricciardo
+1026,17,22,Japanese Grand Prix,13/10/2019,05:10:00,69668,832,76.0,0,sainz
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69669,822,289.0,0,bottas
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69670,1,363.0,0,hamilton
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69671,830,220.0,0,max_verstappen
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69673,844,236.0,0,leclerc
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69674,825,20.0,0,kevin_magnussen
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69675,807,35.0,0,hulkenberg
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69677,840,21.0,0,stroll
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69679,842,77.0,5,gasly
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69680,846,35.0,9,norris
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69681,815,43.0,0,perez
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69682,848,74.0,2,albon
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69684,847,0.0,1,russell
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69687,817,38.0,0,ricciardo
+1027,18,32,Mexican Grand Prix,27/10/2019,19:10:00,69688,832,76.0,0,sainz
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69689,822,314.0,0,bottas
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69690,1,381.0,0,hamilton
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69691,830,235.0,0,max_verstappen
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69693,844,249.0,0,leclerc
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69694,825,20.0,0,kevin_magnussen
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69695,807,37.0,0,hulkenberg
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69697,840,21.0,0,stroll
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69699,842,77.0,0,gasly
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69700,846,41.0,0,norris
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69701,815,44.0,0,perez
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69702,848,84.0,0,albon
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69704,847,0.0,0,russell
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69707,817,46.0,2,ricciardo
+1028,19,69,United States Grand Prix,03/11/2019,19:10:00,69708,832,80.0,9,sainz
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69709,822,314.0,0,bottas
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69710,1,387.0,0,hamilton
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69711,830,260.0,0,max_verstappen
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69713,844,249.0,0,leclerc
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69714,825,20.0,0,kevin_magnussen
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69715,807,37.0,0,hulkenberg
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69717,840,21.0,1,stroll
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69719,842,95.0,5,gasly
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69720,846,45.0,9,norris
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69721,815,46.0,1,perez
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69722,848,84.0,2,albon
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69724,847,0.0,2,russell
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69727,817,54.0,0,ricciardo
+1029,20,18,Brazilian Grand Prix,17/11/2019,17:10:00,69728,832,95.0,0,sainz
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69729,822,326.0,0,bottas
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69730,1,413.0,0,hamilton
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69731,830,278.0,0,max_verstappen
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69733,844,264.0,0,leclerc
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69734,825,20.0,0,kevin_magnussen
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69735,807,37.0,0,hulkenberg
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69737,840,21.0,0,stroll
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69739,842,95.0,5,gasly
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69740,846,49.0,10,norris
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69741,815,52.0,1,perez
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69742,848,92.0,2,albon
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69744,847,0.0,2,russell
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69747,817,54.0,0,ricciardo
+1030,21,24,Abu Dhabi Grand Prix,01/12/2019,13:10:00,69748,832,96.0,0,sainz
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,69995,822,25.0,0,bottas
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,69996,844,18.0,0,leclerc
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,69997,846,16.0,0,norris
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,69998,1,12.0,6,hamilton
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,69999,832,10.0,2,sainz
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70000,815,8.0,6,perez
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70001,842,6.0,1,gasly
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70002,839,4.0,0,ocon
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70007,848,0.0,0,albon
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70009,847,0.0,0,russell
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70011,825,0.0,0,kevin_magnussen
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70012,840,0.0,0,stroll
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70013,817,0.0,0,ricciardo
+1031,1,70,Austrian Grand Prix,05/07/2020,13:10:00,70014,830,0.0,0,max_verstappen
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69809,822,43.0,0,bottas
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69810,844,18.0,0,leclerc
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69811,846,26.0,0,norris
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69812,1,37.0,0,hamilton
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69813,832,13.0,0,sainz
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69814,815,16.0,0,perez
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69815,842,6.0,0,gasly
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69816,839,4.0,0,ocon
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69821,848,12.0,0,albon
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69823,847,0.0,0,russell
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69825,825,0.0,0,kevin_magnussen
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69826,840,6.0,0,stroll
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69827,817,4.0,0,ricciardo
+1032,2,70,Styrian Grand Prix,12/07/2020,13:10:00,69828,830,15.0,0,max_verstappen
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69849,822,58.0,2,bottas
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69850,844,18.0,0,leclerc
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69851,846,26.0,0,norris
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69852,1,63.0,0,hamilton
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69853,832,15.0,0,sainz
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69854,815,22.0,0,perez
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69855,842,6.0,0,gasly
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69856,839,4.0,0,ocon
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69861,848,22.0,0,albon
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69863,847,0.0,0,russell
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69865,825,1.0,0,kevin_magnussen
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69866,840,18.0,0,stroll
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69867,817,8.0,0,ricciardo
+1033,3,11,Hungarian Grand Prix,19/07/2020,13:10:00,69868,830,33.0,0,max_verstappen
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69869,822,58.0,0,bottas
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69870,844,33.0,0,leclerc
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69871,846,36.0,0,norris
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69872,1,88.0,0,hamilton
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69873,832,15.0,0,sainz
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69874,815,22.0,0,perez
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69875,842,12.0,0,gasly
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69876,839,12.0,0,ocon
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69881,848,26.0,0,albon
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69883,847,0.0,0,russell
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69885,825,1.0,0,kevin_magnussen
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69886,840,20.0,0,stroll
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69887,817,20.0,0,ricciardo
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69888,830,52.0,0,max_verstappen
+1034,4,9,British Grand Prix,02/08/2020,13:10:00,69889,807,0.0,0,hulkenberg
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69890,822,73.0,0,bottas
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69891,844,45.0,0,leclerc
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69892,846,38.0,0,norris
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69893,1,107.0,0,hamilton
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69894,832,15.0,0,sainz
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69895,815,22.0,0,perez
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69896,842,12.0,0,gasly
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69897,839,16.0,0,ocon
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69902,848,36.0,0,albon
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69904,847,0.0,0,russell
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69906,825,1.0,0,kevin_magnussen
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69907,840,28.0,0,stroll
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69908,817,20.0,0,ricciardo
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69909,830,77.0,0,max_verstappen
+1035,5,9,70th Anniversary Grand Prix,09/08/2020,13:10:00,69910,807,6.0,0,hulkenberg
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69911,822,89.0,0,bottas
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69912,844,45.0,0,leclerc
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69913,846,39.0,0,norris
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69914,1,132.0,0,hamilton
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69915,832,23.0,0,sainz
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69916,815,32.0,0,perez
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69917,842,14.0,0,gasly
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69918,839,16.0,0,ocon
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69923,848,40.0,0,albon
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69925,847,0.0,0,russell
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69927,825,1.0,0,kevin_magnussen
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69928,840,40.0,0,stroll
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69929,817,20.0,0,ricciardo
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69930,830,95.0,3,max_verstappen
+1036,6,4,Spanish Grand Prix,16/08/2020,13:10:00,69931,807,6.0,0,hulkenberg
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69932,822,107.0,0,bottas
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69933,844,45.0,0,leclerc
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69934,846,45.0,2,norris
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69935,1,157.0,0,hamilton
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69936,832,23.0,0,sainz
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69937,815,33.0,0,perez
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69938,842,18.0,0,gasly
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69939,839,26.0,2,ocon
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69944,848,48.0,0,albon
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69946,847,0.0,0,russell
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69948,825,1.0,0,kevin_magnussen
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69949,840,42.0,0,stroll
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69950,817,33.0,0,ricciardo
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69951,830,110.0,0,max_verstappen
+1037,7,13,Belgian Grand Prix,30/08/2020,13:10:00,69952,807,6.0,0,hulkenberg
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69953,822,117.0,0,bottas
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69954,844,45.0,0,leclerc
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69955,846,57.0,0,norris
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69956,1,164.0,0,hamilton
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69957,832,41.0,0,sainz
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69958,815,34.0,0,perez
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69959,842,43.0,2,gasly
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69960,839,30.0,5,ocon
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69965,848,48.0,0,albon
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69967,847,0.0,0,russell
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69969,825,1.0,0,kevin_magnussen
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69970,840,57.0,0,stroll
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69971,817,41.0,0,ricciardo
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69972,830,110.0,0,max_verstappen
+1038,8,14,Italian Grand Prix,06/09/2020,13:10:00,69973,807,6.0,0,hulkenberg
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69974,822,135.0,0,bottas
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69975,844,49.0,0,leclerc
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69976,846,65.0,0,norris
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69977,1,190.0,0,hamilton
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69978,832,41.0,0,sainz
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69979,815,44.0,0,perez
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69980,842,43.0,0,gasly
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69981,839,30.0,0,ocon
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69986,848,63.0,0,albon
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69988,847,0.0,0,russell
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69990,825,1.0,0,kevin_magnussen
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69991,840,57.0,0,stroll
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69992,817,53.0,0,ricciardo
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69993,830,110.0,0,max_verstappen
+1039,9,76,Tuscan Grand Prix,13/09/2020,13:10:00,69994,807,6.0,0,hulkenberg
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70015,822,161.0,0,bottas
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70016,844,57.0,0,leclerc
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70017,846,65.0,0,norris
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70018,1,205.0,0,hamilton
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70019,832,41.0,2,sainz
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70020,815,56.0,7,perez
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70021,842,45.0,1,gasly
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70022,839,36.0,0,ocon
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70027,848,64.0,0,albon
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70029,847,0.0,0,russell
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70031,825,1.0,0,kevin_magnussen
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70032,840,57.0,0,stroll
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70033,817,63.0,0,ricciardo
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70034,830,128.0,0,max_verstappen
+1040,10,71,Russian Grand Prix,27/09/2020,11:10:00,70035,807,6.0,0,hulkenberg
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70036,822,161.0,0,bottas
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70037,844,63.0,0,leclerc
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70038,846,65.0,0,norris
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70039,1,230.0,0,hamilton
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70040,832,51.0,0,sainz
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70041,815,68.0,0,perez
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70042,842,53.0,0,gasly
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70043,839,36.0,0,ocon
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70048,848,64.0,0,albon
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70050,847,0.0,0,russell
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70052,825,1.0,0,kevin_magnussen
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70053,840,57.0,0,stroll
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70054,817,78.0,2,ricciardo
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70055,830,147.0,0,max_verstappen
+1041,11,20,Eifel Grand Prix,11/10/2020,13:10:00,70056,807,10.0,0,hulkenberg
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70057,822,179.0,0,bottas
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70058,844,75.0,0,leclerc
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70059,846,65.0,2,norris
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70060,1,256.0,8,hamilton
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70061,832,59.0,2,sainz
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70062,815,74.0,0,perez
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70063,842,63.0,0,gasly
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70064,839,40.0,0,ocon
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70069,848,64.0,0,albon
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70071,847,0.0,0,russell
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70073,825,1.0,0,kevin_magnussen
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70074,840,57.0,0,stroll
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70075,817,80.0,0,ricciardo
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70076,830,162.0,0,max_verstappen
+1042,12,75,Portuguese Grand Prix,25/10/2020,12:10:00,70077,807,10.0,0,hulkenberg
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70078,822,197.0,0,bottas
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70079,844,85.0,2,leclerc
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70080,846,69.0,8,norris
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70081,1,282.0,2,hamilton
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70082,832,65.0,0,sainz
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70083,815,82.0,1,perez
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70084,842,63.0,0,gasly
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70085,839,40.0,0,ocon
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70090,848,64.0,0,albon
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70092,847,0.0,0,russell
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70094,825,1.0,0,kevin_magnussen
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70095,840,57.0,0,stroll
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70096,817,95.0,0,ricciardo
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70097,830,162.0,0,max_verstappen
+1043,13,21,Emilia Romagna Grand Prix,01/11/2020,12:10:00,70098,807,10.0,0,hulkenberg
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70099,822,197.0,2,bottas
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70100,844,97.0,8,leclerc
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70101,846,74.0,2,norris
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70102,1,307.0,0,hamilton
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70103,832,75.0,2,sainz
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70104,815,100.0,0,perez
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70105,842,63.0,0,gasly
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70106,839,40.0,0,ocon
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70111,848,70.0,0,albon
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70113,847,0.0,0,russell
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70115,825,1.0,0,kevin_magnussen
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70116,840,59.0,0,stroll
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70117,817,96.0,0,ricciardo
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70118,830,170.0,0,max_verstappen
+1044,14,5,Turkish Grand Prix,15/11/2020,10:10:00,70119,807,10.0,2,hulkenberg
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70120,822,201.0,8,bottas
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70121,844,98.0,2,leclerc
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70122,846,86.0,1,norris
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70123,1,332.0,2,hamilton
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70124,832,85.0,0,sainz
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70125,815,100.0,0,perez
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70126,842,71.0,0,gasly
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70127,839,42.0,0,ocon
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70132,848,85.0,0,albon
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70134,847,0.0,0,russell
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70136,825,1.0,0,kevin_magnussen
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70137,840,59.0,0,stroll
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70138,817,102.0,0,ricciardo
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70139,830,189.0,2,max_verstappen
+1045,15,3,Bahrain Grand Prix,29/11/2020,14:10:00,70140,807,10.0,9,hulkenberg
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70141,822,205.0,2,bottas
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70142,844,98.0,1,leclerc
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70143,846,87.0,2,norris
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70144,1,332.0,0,hamilton
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70145,832,97.0,0,sainz
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70146,815,125.0,0,perez
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70147,842,71.0,0,gasly
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70148,839,60.0,0,ocon
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70153,848,93.0,0,albon
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70155,847,3.0,0,russell
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70157,825,1.0,0,kevin_magnussen
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70158,840,74.0,0,stroll
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70159,817,112.0,0,ricciardo
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70160,830,189.0,0,max_verstappen
+1046,16,3,Sakhir Grand Prix,06/12/2020,17:10:00,70161,807,10.0,0,hulkenberg
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70187,822,223.0,0,bottas
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70188,844,98.0,0,leclerc
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70189,846,97.0,0,norris
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70190,1,347.0,0,hamilton
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70191,832,105.0,0,sainz
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70192,815,125.0,1,perez
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70193,842,75.0,9,gasly
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70194,839,62.0,3,ocon
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70199,848,105.0,0,albon
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70201,847,3.0,0,russell
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70203,825,1.0,0,kevin_magnussen
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70204,840,75.0,0,stroll
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70205,817,119.0,0,ricciardo
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70206,830,214.0,0,max_verstappen
+1047,17,24,Abu Dhabi Grand Prix,13/12/2020,13:10:00,70207,807,10.0,0,hulkenberg
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70291,1,44.0,0,hamilton
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70292,830,43.0,0,max_verstappen
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70293,822,16.0,0,bottas
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70294,846,27.0,0,norris
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70295,815,10.0,0,perez
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70296,844,20.0,0,leclerc
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70297,817,14.0,0,ricciardo
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70298,832,14.0,0,sainz
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70299,852,2.0,0,tsunoda
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70300,840,5.0,0,stroll
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70303,839,2.0,4,ocon
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70304,847,0.0,10,russell
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70307,842,6.0,2,gasly
+1053,2,21,Emilia Romagna Grand Prix,18/04/2021,13:00:00,70309,4,1.0,0,alonso
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71376,844,26.0,0,leclerc
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71377,832,18.0,0,sainz
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71378,1,15.0,0,hamilton
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71379,847,12.0,0,russell
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71380,825,10.0,0,kevin_magnussen
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71381,822,8.0,0,bottas
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71382,839,6.0,0,ocon
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71383,852,4.0,0,tsunoda
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71384,4,2.0,0,alonso
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71385,855,1.0,0,zhou
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71387,840,0.0,0,stroll
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71388,848,0.0,0,albon
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71389,817,0.0,0,ricciardo
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71390,846,0.0,0,norris
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71392,807,0.0,0,hulkenberg
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71393,815,0.0,4,perez
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71394,830,0.0,0,max_verstappen
+1074,1,3,Bahrain Grand Prix,20/03/2022,15:00:00,71395,842,0.0,0,gasly
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70231,1,25.0,0,hamilton
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70232,830,18.0,0,max_verstappen
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70233,822,16.0,0,bottas
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70234,846,12.0,1,norris
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70235,815,10.0,10,perez
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70236,844,8.0,3,leclerc
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70237,817,6.0,0,ricciardo
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70238,832,4.0,2,sainz
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70239,852,2.0,0,tsunoda
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70240,840,1.0,0,stroll
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70243,839,0.0,4,ocon
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70244,847,0.0,10,russell
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70247,842,0.0,2,gasly
+1052,1,3,Bahrain Grand Prix,28/03/2021,15:00:00,70249,4,0.0,0,alonso
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70698,1,343.5,11,hamilton
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70699,830,351.5,0,max_verstappen
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70700,822,203.0,1,bottas
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70701,846,153.0,1,norris
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70702,815,190.0,0,perez
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70703,844,152.0,0,leclerc
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70704,817,105.0,0,ricciardo
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70705,832,145.5,0,sainz
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70706,852,20.0,0,tsunoda
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70707,840,34.0,0,stroll
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70710,839,60.0,0,ocon
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70711,847,16.0,0,russell
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70714,842,92.0,1,gasly
+1051,20,78,Qatar Grand Prix,21/11/2021,14:00:00,70716,4,77.0,0,alonso
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70311,1,69.0,0,hamilton
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70312,830,61.0,0,max_verstappen
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70313,822,32.0,0,bottas
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70314,846,37.0,0,norris
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70315,815,22.0,0,perez
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70316,844,28.0,0,leclerc
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70317,817,16.0,0,ricciardo
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70318,832,14.0,0,sainz
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70319,852,2.0,0,tsunoda
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70320,840,5.0,0,stroll
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70323,839,8.0,4,ocon
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70324,847,0.0,11,russell
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70327,842,7.0,2,gasly
+1054,3,75,Portuguese Grand Prix,02/05/2021,14:00:00,70329,4,5.0,0,alonso
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70331,1,94.0,0,hamilton
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70332,830,80.0,0,max_verstappen
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70333,822,47.0,0,bottas
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70334,846,41.0,0,norris
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70335,815,32.0,0,perez
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70336,844,40.0,0,leclerc
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70337,817,24.0,0,ricciardo
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70338,832,20.0,0,sainz
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70339,852,2.0,0,tsunoda
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70340,840,5.0,0,stroll
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70343,839,10.0,0,ocon
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70344,847,0.0,0,russell
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70347,842,8.0,0,gasly
+1055,4,4,Spanish Grand Prix,09/05/2021,13:00:00,70349,4,5.0,0,alonso
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70351,1,101.0,0,hamilton
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70352,830,105.0,0,max_verstappen
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70353,822,47.0,0,bottas
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70354,846,56.0,0,norris
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70355,815,44.0,0,perez
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70356,844,40.0,0,leclerc
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70357,817,24.0,0,ricciardo
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70358,832,38.0,0,sainz
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70359,852,2.0,3,tsunoda
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70360,840,9.0,0,stroll
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70363,839,12.0,0,ocon
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70364,847,0.0,0,russell
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70367,842,16.0,0,gasly
+1056,5,6,Monaco Grand Prix,23/05/2021,13:00:00,70369,4,5.0,2,alonso
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70371,1,101.0,0,hamilton
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70372,830,105.0,0,max_verstappen
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70373,822,47.0,0,bottas
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70374,846,66.0,0,norris
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70375,815,69.0,0,perez
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70376,844,52.0,0,leclerc
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70377,817,26.0,0,ricciardo
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70378,832,42.0,0,sainz
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70379,852,8.0,0,tsunoda
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70380,840,9.0,0,stroll
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70383,839,12.0,0,ocon
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70384,847,0.0,1,russell
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70387,842,31.0,0,gasly
+1057,6,73,Azerbaijan Grand Prix,06/06/2021,12:00:00,70389,4,13.0,0,alonso
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70411,1,138.0,0,hamilton
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70412,830,156.0,0,max_verstappen
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70413,822,74.0,0,bottas
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70414,846,86.0,2,norris
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70415,815,96.0,0,perez
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70416,844,58.0,1,leclerc
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70417,817,34.0,0,ricciardo
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70418,832,50.0,0,sainz
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70419,852,9.0,0,tsunoda
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70420,840,14.0,0,stroll
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70423,839,12.0,0,ocon
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70424,847,0.0,0,russell
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70427,842,37.0,0,gasly
+1058,8,70,Styrian Grand Prix,27/06/2021,13:00:00,70429,4,19.0,3,alonso
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70391,1,119.0,0,hamilton
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70392,830,131.0,0,max_verstappen
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70393,822,59.0,0,bottas
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70394,846,76.0,0,norris
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70395,815,84.0,0,perez
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70396,844,52.0,0,leclerc
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70397,817,34.0,0,ricciardo
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70398,832,42.0,0,sainz
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70399,852,8.0,0,tsunoda
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70400,840,10.0,0,stroll
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70403,839,12.0,0,ocon
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70404,847,0.0,0,russell
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70407,842,37.0,0,gasly
+1059,7,34,French Grand Prix,20/06/2021,13:00:00,70409,4,17.0,0,alonso
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70451,1,150.0,0,hamilton
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70452,830,182.0,0,max_verstappen
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70453,822,92.0,0,bottas
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70454,846,101.0,0,norris
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70455,815,104.0,0,perez
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70456,844,62.0,0,leclerc
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70457,817,40.0,0,ricciardo
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70458,832,60.0,0,sainz
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70459,852,9.0,0,tsunoda
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70460,840,14.0,0,stroll
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70463,839,12.0,0,ocon
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70464,847,0.0,0,russell
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70467,842,39.0,1,gasly
+1060,9,70,Austrian Grand Prix,04/07/2021,13:00:00,70469,4,20.0,0,alonso
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70471,1,177.0,0,hamilton
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70472,830,185.0,0,max_verstappen
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70473,822,108.0,0,bottas
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70474,846,113.0,0,norris
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70475,815,104.0,0,perez
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70476,844,80.0,0,leclerc
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70477,817,50.0,0,ricciardo
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70478,832,68.0,0,sainz
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70479,852,10.0,0,tsunoda
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70480,840,18.0,0,stroll
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70483,839,14.0,0,ocon
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70484,847,0.0,0,russell
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70487,842,39.0,0,gasly
+1061,10,9,British Grand Prix,18/07/2021,14:00:00,70489,4,26.0,0,alonso
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70511,1,195.0,5,hamilton
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70512,830,187.0,0,max_verstappen
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70513,822,108.0,0,bottas
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70514,846,113.0,0,norris
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70515,815,104.0,0,perez
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70516,844,80.0,0,leclerc
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70517,817,50.0,0,ricciardo
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70518,832,83.0,0,sainz
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70519,852,18.0,0,tsunoda
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70520,840,18.0,0,stroll
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70523,839,39.0,0,ocon
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70524,847,4.0,0,russell
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70527,842,50.0,1,gasly
+1062,11,11,Hungarian Grand Prix,01/08/2021,13:00:00,70529,4,38.0,1,alonso
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70531,1,202.5,0,hamilton
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70532,830,199.5,5,max_verstappen
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70533,822,108.0,0,bottas
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70534,846,113.0,0,norris
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70535,815,104.0,1,perez
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70536,844,82.0,0,leclerc
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70537,817,56.0,0,ricciardo
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70538,832,83.5,0,sainz
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70539,852,18.0,0,tsunoda
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70540,840,18.0,0,stroll
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70543,839,42.0,0,ocon
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70544,847,13.0,0,russell
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70547,842,54.0,0,gasly
+1063,12,13,Belgian Grand Prix,29/08/2021,13:00:00,70549,4,38.0,0,alonso
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70551,1,221.5,0,hamilton
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70552,830,224.5,0,max_verstappen
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70553,822,123.0,6,bottas
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70554,846,114.0,0,norris
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70555,815,108.0,0,perez
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70556,844,92.0,1,leclerc
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70557,817,56.0,0,ricciardo
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70558,832,89.5,0,sainz
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70559,852,18.0,0,tsunoda
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70560,840,18.0,0,stroll
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70563,839,44.0,0,ocon
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70564,847,13.0,0,russell
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70567,842,66.0,0,gasly
+1064,13,39,Dutch Grand Prix,05/09/2021,13:00:00,70569,4,46.0,1,alonso
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70572,1,221.5,6,hamilton
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70573,830,226.5,0,max_verstappen
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70574,822,141.0,0,bottas
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70575,846,132.0,1,norris
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70576,815,118.0,0,perez
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70577,844,104.0,0,leclerc
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70578,817,83.0,0,ricciardo
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70579,832,97.5,0,sainz
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70580,852,18.0,0,tsunoda
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70581,840,24.0,0,stroll
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70584,839,45.0,0,ocon
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70585,847,15.0,0,russell
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70588,842,66.0,1,gasly
+1065,14,14,Italian Grand Prix,12/09/2021,13:00:00,70590,4,50.0,2,alonso
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70593,1,246.5,7,hamilton
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70594,830,244.5,0,max_verstappen
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70595,822,151.0,0,bottas
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70596,846,139.0,1,norris
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70597,815,120.0,0,perez
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70598,844,104.0,0,leclerc
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70599,817,95.0,0,ricciardo
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70600,832,112.5,0,sainz
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70601,852,18.0,0,tsunoda
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70602,840,24.0,0,stroll
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70605,839,45.0,0,ocon
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70606,847,16.0,0,russell
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70609,842,66.0,1,gasly
+1066,15,71,Russian Grand Prix,26/09/2021,12:00:00,70611,4,58.0,2,alonso
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70614,1,256.5,8,hamilton
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70615,830,262.5,0,max_verstappen
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70616,822,177.0,0,bottas
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70617,846,145.0,1,norris
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70618,815,135.0,0,perez
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70619,844,116.0,0,leclerc
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70620,817,95.0,0,ricciardo
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70621,832,116.5,0,sainz
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70622,852,18.0,0,tsunoda
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70623,840,26.0,0,stroll
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70626,839,46.0,0,ocon
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70627,847,16.0,0,russell
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70630,842,74.0,1,gasly
+1067,16,5,Turkish Grand Prix,10/10/2021,12:00:00,70632,4,58.0,2,alonso
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70635,1,275.5,9,hamilton
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70636,830,287.5,0,max_verstappen
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70637,822,185.0,0,bottas
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70638,846,149.0,1,norris
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70639,815,150.0,0,perez
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70640,844,128.0,0,leclerc
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70641,817,105.0,0,ricciardo
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70642,832,122.5,0,sainz
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70643,852,20.0,0,tsunoda
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70644,840,26.0,0,stroll
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70647,839,46.0,0,ocon
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70648,847,16.0,0,russell
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70651,842,74.0,1,gasly
+1069,17,69,United States Grand Prix,24/10/2021,19:00:00,70653,4,58.0,2,alonso
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70656,1,293.5,10,hamilton
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70657,830,312.5,0,max_verstappen
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70658,822,185.0,0,bottas
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70659,846,150.0,1,norris
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70660,815,165.0,0,perez
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70661,844,138.0,0,leclerc
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70662,817,105.0,0,ricciardo
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70663,832,130.5,0,sainz
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70664,852,20.0,0,tsunoda
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70665,840,26.0,0,stroll
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70668,839,46.0,0,ocon
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70669,847,16.0,0,russell
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70672,842,86.0,1,gasly
+1070,18,32,Mexico City Grand Prix,07/11/2021,19:00:00,70674,4,60.0,2,alonso
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70677,1,318.5,11,hamilton
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70678,830,332.5,0,max_verstappen
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70679,822,203.0,0,bottas
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70680,846,151.0,1,norris
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70681,815,178.0,0,perez
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70682,844,148.0,0,leclerc
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70683,817,105.0,0,ricciardo
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70684,832,139.5,0,sainz
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70685,852,20.0,0,tsunoda
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70686,840,26.0,0,stroll
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70689,839,50.0,0,ocon
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70690,847,16.0,0,russell
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70693,842,92.0,1,gasly
+1071,19,18,São Paulo Grand Prix,14/11/2021,17:00:00,70695,4,62.0,2,alonso
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70719,1,369.5,0,hamilton
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70720,830,369.5,2,max_verstappen
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70721,822,218.0,0,bottas
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70722,846,154.0,0,norris
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70723,815,190.0,0,perez
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70724,844,158.0,0,leclerc
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70725,817,115.0,0,ricciardo
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70726,832,149.5,0,sainz
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70727,852,20.0,1,tsunoda
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70728,840,34.0,11,stroll
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70731,839,72.0,0,ocon
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70732,847,16.0,0,russell
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70735,842,100.0,0,gasly
+1072,21,77,Saudi Arabian Grand Prix,05/12/2021,17:30:00,70737,4,77.0,0,alonso
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70740,1,387.5,2,hamilton
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70741,830,395.5,0,max_verstappen
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70742,822,226.0,0,bottas
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70743,846,160.0,0,norris
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70744,815,190.0,0,perez
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70745,844,159.0,0,leclerc
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70746,817,115.0,0,ricciardo
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70747,832,164.5,0,sainz
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70748,852,32.0,0,tsunoda
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70749,840,34.0,1,stroll
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70752,839,74.0,0,ocon
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70753,847,16.0,0,russell
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70756,842,110.0,0,gasly
+1073,22,24,Abu Dhabi Grand Prix,12/12/2021,13:00:00,70758,4,81.0,0,alonso
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71272,844,45.0,0,leclerc
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71273,832,33.0,0,sainz
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71274,1,16.0,0,hamilton
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71275,847,22.0,0,russell
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71276,825,12.0,0,kevin_magnussen
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71277,822,8.0,0,bottas
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71278,839,14.0,0,ocon
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71279,852,4.0,0,tsunoda
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71280,4,2.0,0,alonso
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71281,855,1.0,0,zhou
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71283,840,0.0,0,stroll
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71284,848,0.0,0,albon
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71285,817,0.0,0,ricciardo
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71286,846,6.0,0,norris
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71288,807,0.0,0,hulkenberg
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71289,815,12.0,0,perez
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71290,830,25.0,0,max_verstappen
+1075,2,77,Saudi Arabian Grand Prix,27/03/2022,17:00:00,71291,842,4.0,0,gasly
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71292,844,71.0,1,leclerc
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71293,832,33.0,0,sainz
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71294,1,28.0,0,hamilton
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71295,847,37.0,0,russell
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71296,825,12.0,0,kevin_magnussen
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71297,822,12.0,0,bottas
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71298,839,20.0,0,ocon
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71299,852,4.0,0,tsunoda
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71300,4,2.0,0,alonso
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71301,855,1.0,0,zhou
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71303,840,0.0,0,stroll
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71304,848,1.0,0,albon
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71305,817,8.0,0,ricciardo
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71306,846,16.0,0,norris
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71308,807,0.0,0,hulkenberg
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71309,815,30.0,0,perez
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71310,830,25.0,1,max_verstappen
+1076,3,1,Australian Grand Prix,10/04/2022,05:00:00,71311,842,6.0,0,gasly
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71313,844,86.0,0,leclerc
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71314,832,38.0,0,sainz
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71315,1,28.0,0,hamilton
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71316,847,49.0,0,russell
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71317,825,15.0,0,kevin_magnussen
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71318,822,24.0,0,bottas
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71319,839,20.0,0,ocon
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71320,852,10.0,0,tsunoda
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71321,4,2.0,0,alonso
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71322,855,1.0,0,zhou
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71324,840,1.0,0,stroll
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71325,848,1.0,0,albon
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71326,817,11.0,0,ricciardo
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71327,846,35.0,0,norris
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71329,807,0.0,0,hulkenberg
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71330,815,54.0,1,perez
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71331,830,59.0,0,max_verstappen
+1077,4,21,Emilia Romagna Grand Prix,24/04/2022,13:00:00,71332,842,6.0,0,gasly
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71334,844,104.0,0,leclerc
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71335,832,53.0,0,sainz
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71336,1,36.0,0,hamilton
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71337,847,59.0,0,russell
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71338,825,15.0,0,kevin_magnussen
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71339,822,30.0,0,bottas
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71340,839,24.0,0,ocon
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71341,852,10.0,0,tsunoda
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71342,4,2.0,0,alonso
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71343,855,1.0,0,zhou
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71345,840,2.0,0,stroll
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71346,848,3.0,0,albon
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71347,817,11.0,0,ricciardo
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71348,846,35.0,0,norris
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71350,807,0.0,0,hulkenberg
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71351,815,66.0,2,perez
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71352,830,85.0,0,max_verstappen
+1078,5,79,Miami Grand Prix,08/05/2022,19:30:00,71353,842,6.0,0,gasly
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71355,844,104.0,0,leclerc
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71356,832,65.0,0,sainz
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71357,1,46.0,0,hamilton
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71358,847,74.0,0,russell
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71359,825,15.0,0,kevin_magnussen
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71360,822,38.0,0,bottas
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71361,839,30.0,0,ocon
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71362,852,11.0,0,tsunoda
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71363,4,4.0,0,alonso
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71364,855,1.0,0,zhou
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71366,840,2.0,0,stroll
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71367,848,3.0,0,albon
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71368,817,11.0,0,ricciardo
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71369,846,39.0,0,norris
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71371,807,0.0,0,hulkenberg
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71372,815,85.0,3,perez
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71373,830,110.0,0,max_verstappen
+1079,6,4,Spanish Grand Prix,22/05/2022,13:00:00,71374,842,6.0,0,gasly
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71396,844,116.0,2,leclerc
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71397,832,83.0,0,sainz
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71398,1,50.0,0,hamilton
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71399,847,84.0,0,russell
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71400,825,15.0,0,kevin_magnussen
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71401,822,40.0,0,bottas
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71402,839,30.0,0,ocon
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71403,852,11.0,0,tsunoda
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71404,4,10.0,0,alonso
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71405,855,1.0,0,zhou
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71407,840,2.0,0,stroll
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71408,848,3.0,0,albon
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71409,817,11.0,0,ricciardo
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71410,846,48.0,0,norris
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71412,807,0.0,0,hulkenberg
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71413,815,110.0,1,perez
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71414,830,125.0,4,max_verstappen
+1080,7,6,Monaco Grand Prix,29/05/2022,13:00:00,71415,842,6.0,0,gasly
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71417,844,116.0,2,leclerc
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71418,832,83.0,0,sainz
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71419,1,62.0,0,hamilton
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71420,847,99.0,0,russell
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71421,825,15.0,0,kevin_magnussen
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71422,822,40.0,0,bottas
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71423,839,31.0,0,ocon
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71424,852,11.0,0,tsunoda
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71425,4,16.0,0,alonso
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71426,855,1.0,0,zhou
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71428,840,2.0,0,stroll
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71429,848,3.0,0,albon
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71430,817,15.0,0,ricciardo
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71431,846,50.0,0,norris
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71433,807,0.0,0,hulkenberg
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71434,815,129.0,1,perez
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71435,830,150.0,5,max_verstappen
+1081,8,73,Azerbaijan Grand Prix,12/06/2022,11:00:00,71436,842,16.0,0,gasly
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71459,844,126.0,0,leclerc
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71460,832,102.0,6,sainz
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71461,1,77.0,1,hamilton
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71462,847,111.0,0,russell
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71463,825,15.0,0,kevin_magnussen
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71464,822,46.0,0,bottas
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71465,839,39.0,0,ocon
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71466,852,11.0,0,tsunoda
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71467,4,18.0,0,alonso
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71468,855,5.0,0,zhou
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71470,840,3.0,0,stroll
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71471,848,3.0,0,albon
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71472,817,15.0,0,ricciardo
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71473,846,50.0,0,norris
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71475,807,0.0,0,hulkenberg
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71476,815,129.0,0,perez
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71477,830,175.0,2,max_verstappen
+1082,9,7,Canadian Grand Prix,19/06/2022,18:00:00,71478,842,16.0,0,gasly
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71480,844,138.0,2,leclerc
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71481,832,127.0,1,sainz
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71482,1,93.0,0,hamilton
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71483,847,111.0,0,russell
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71484,825,16.0,0,kevin_magnussen
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71485,822,46.0,0,bottas
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71486,839,39.0,0,ocon
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71487,852,11.0,0,tsunoda
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71488,4,28.0,0,alonso
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71489,855,5.0,0,zhou
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71491,840,3.0,0,stroll
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71492,848,3.0,0,albon
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71493,817,15.0,0,ricciardo
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71494,846,58.0,0,norris
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71496,807,0.0,0,hulkenberg
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71497,815,147.0,1,perez
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71498,830,181.0,6,max_verstappen
+1083,10,9,British Grand Prix,03/07/2022,14:00:00,71499,842,16.0,0,gasly
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71501,844,170.0,3,leclerc
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71502,832,133.0,1,sainz
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71503,1,109.0,0,hamilton
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71504,847,128.0,0,russell
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71505,825,22.0,0,kevin_magnussen
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71506,822,46.0,0,bottas
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71507,839,52.0,0,ocon
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71508,852,11.0,0,tsunoda
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71509,4,29.0,0,alonso
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71510,855,5.0,0,zhou
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71512,840,3.0,0,stroll
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71513,848,3.0,0,albon
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71514,817,17.0,0,ricciardo
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71515,846,64.0,0,norris
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71517,807,0.0,0,hulkenberg
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71518,815,151.0,1,perez
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71519,830,208.0,6,max_verstappen
+1084,11,70,Austrian Grand Prix,10/07/2022,13:00:00,71520,842,16.0,0,gasly
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71522,844,170.0,3,leclerc
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71523,832,144.0,1,sainz
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71524,1,127.0,0,hamilton
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71525,847,143.0,0,russell
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71526,825,22.0,0,kevin_magnussen
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71527,822,46.0,0,bottas
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71528,839,56.0,0,ocon
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71529,852,11.0,0,tsunoda
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71530,4,37.0,0,alonso
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71531,855,5.0,0,zhou
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71533,840,4.0,0,stroll
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71534,848,3.0,0,albon
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71535,817,19.0,0,ricciardo
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71536,846,70.0,0,norris
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71538,807,0.0,0,hulkenberg
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71539,815,163.0,1,perez
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71540,830,233.0,7,max_verstappen
+1085,12,34,French Grand Prix,24/07/2022,13:00:00,71541,842,16.0,0,gasly
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71543,844,178.0,3,leclerc
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71544,832,156.0,1,sainz
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71545,1,146.0,0,hamilton
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71546,847,158.0,0,russell
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71547,825,22.0,0,kevin_magnussen
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71548,822,46.0,0,bottas
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71549,839,58.0,0,ocon
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71550,852,11.0,0,tsunoda
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71551,4,41.0,0,alonso
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71552,855,5.0,0,zhou
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71554,840,4.0,0,stroll
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71555,848,3.0,0,albon
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71556,817,19.0,0,ricciardo
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71557,846,76.0,0,norris
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71559,807,0.0,0,hulkenberg
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71560,815,173.0,1,perez
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71561,830,258.0,8,max_verstappen
+1086,13,11,Hungarian Grand Prix,31/07/2022,13:00:00,71562,842,16.0,0,gasly
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71564,844,186.0,3,leclerc
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71565,832,171.0,1,sainz
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71566,1,146.0,0,hamilton
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71567,847,170.0,0,russell
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71568,825,22.0,0,kevin_magnussen
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71569,822,46.0,0,bottas
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71570,839,64.0,0,ocon
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71571,852,11.0,0,tsunoda
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71572,4,51.0,0,alonso
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71573,855,5.0,0,zhou
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71575,840,4.0,0,stroll
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71576,848,4.0,0,albon
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71577,817,19.0,0,ricciardo
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71578,846,76.0,0,norris
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71580,807,0.0,0,hulkenberg
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71581,815,191.0,1,perez
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71582,830,284.0,9,max_verstappen
+1087,14,13,Belgian Grand Prix,28/08/2022,13:00:00,71583,842,18.0,0,gasly
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71585,844,201.0,3,leclerc
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71586,832,175.0,1,sainz
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71587,1,158.0,0,hamilton
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71588,847,188.0,0,russell
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71589,825,22.0,0,kevin_magnussen
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71590,822,46.0,0,bottas
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71591,839,66.0,0,ocon
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71592,852,11.0,0,tsunoda
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71593,4,59.0,0,alonso
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71594,855,5.0,0,zhou
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71596,840,5.0,0,stroll
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71597,848,4.0,0,albon
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71598,817,19.0,0,ricciardo
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71599,846,82.0,0,norris
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71601,807,0.0,0,hulkenberg
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71602,815,201.0,1,perez
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71603,830,310.0,10,max_verstappen
+1088,15,39,Dutch Grand Prix,04/09/2022,13:00:00,71604,842,18.0,0,gasly
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71606,844,219.0,3,leclerc
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71607,832,187.0,1,sainz
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71608,1,168.0,0,hamilton
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71609,847,203.0,0,russell
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71610,825,22.0,0,kevin_magnussen
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71611,822,46.0,0,bottas
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71612,839,66.0,0,ocon
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71613,852,11.0,0,tsunoda
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71614,4,59.0,0,alonso
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71615,855,6.0,0,zhou
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71617,840,5.0,0,stroll
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71618,848,4.0,0,albon
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71619,817,19.0,0,ricciardo
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71620,846,88.0,0,norris
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71622,807,0.0,0,hulkenberg
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71623,815,210.0,1,perez
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71624,830,335.0,11,max_verstappen
+1089,16,14,Italian Grand Prix,11/09/2022,13:00:00,71625,842,22.0,0,gasly
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71628,844,237.0,3,leclerc
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71629,832,202.0,1,sainz
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71630,1,170.0,0,hamilton
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71631,847,203.0,0,russell
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71632,825,22.0,0,kevin_magnussen
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71633,822,46.0,0,bottas
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71634,839,66.0,0,ocon
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71635,852,11.0,0,tsunoda
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71636,4,59.0,0,alonso
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71637,855,6.0,0,zhou
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71639,840,13.0,0,stroll
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71640,848,4.0,0,albon
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71641,817,29.0,0,ricciardo
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71642,846,100.0,0,norris
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71644,807,0.0,0,hulkenberg
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71645,815,235.0,2,perez
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71646,830,341.0,11,max_verstappen
+1091,17,15,Singapore Grand Prix,02/10/2022,12:00:00,71647,842,23.0,0,gasly
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71672,844,252.0,0,leclerc
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71673,832,202.0,0,sainz
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71674,1,180.0,0,hamilton
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71675,847,207.0,12,russell
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71676,825,22.0,2,kevin_magnussen
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71677,822,46.0,0,bottas
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71678,839,78.0,0,ocon
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71679,852,11.0,0,tsunoda
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71680,4,65.0,0,alonso
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71681,855,6.0,0,zhou
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71683,840,13.0,0,stroll
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71684,848,4.0,0,albon
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71685,817,29.0,0,ricciardo
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71686,846,101.0,0,norris
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71688,807,0.0,0,hulkenberg
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71689,815,253.0,0,perez
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71690,830,366.0,0,max_verstappen
+1092,18,22,Japanese Grand Prix,09/10/2022,05:00:00,71691,842,23.0,0,gasly
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71738,844,267.0,0,leclerc
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71739,832,202.0,0,sainz
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71740,1,198.0,13,hamilton
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71741,847,218.0,2,russell
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71742,825,24.0,0,kevin_magnussen
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71743,822,46.0,0,bottas
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71744,839,78.0,0,ocon
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71745,852,12.0,0,tsunoda
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71746,4,71.0,0,alonso
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71747,855,6.0,0,zhou
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71749,840,13.0,0,stroll
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71750,848,4.0,0,albon
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71751,817,29.0,1,ricciardo
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71752,846,109.0,0,norris
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71754,807,0.0,0,hulkenberg
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71755,815,265.0,0,perez
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71756,830,391.0,0,max_verstappen
+1093,19,69,United States Grand Prix,23/10/2022,19:00:00,71757,842,23.0,0,gasly
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71760,844,275.0,3,leclerc
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71761,832,212.0,0,sainz
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71762,1,216.0,0,hamilton
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71763,847,231.0,0,russell
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71764,825,24.0,14,kevin_magnussen
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71765,822,47.0,2,bottas
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71766,839,82.0,0,ocon
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71767,852,12.0,0,tsunoda
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71768,4,71.0,0,alonso
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71769,855,6.0,0,zhou
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71771,840,13.0,1,stroll
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71772,848,4.0,0,albon
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71773,817,35.0,0,ricciardo
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71774,846,111.0,0,norris
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71776,807,0.0,0,hulkenberg
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71777,815,280.0,0,perez
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71778,830,416.0,0,max_verstappen
+1094,20,32,Mexico City Grand Prix,30/10/2022,20:00:00,71779,842,23.0,0,gasly
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71782,844,290.0,3,leclerc
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71783,832,234.0,1,sainz
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71784,1,240.0,0,hamilton
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71785,847,265.0,1,russell
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71786,825,25.0,0,kevin_magnussen
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71787,822,49.0,0,bottas
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71788,839,86.0,0,ocon
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71789,852,12.0,0,tsunoda
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71790,4,81.0,0,alonso
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71791,855,6.0,0,zhou
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71793,840,14.0,0,stroll
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71794,848,4.0,0,albon
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71795,817,35.0,0,ricciardo
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71796,846,113.0,0,norris
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71798,807,0.0,0,hulkenberg
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71799,815,290.0,2,perez
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71800,830,429.0,14,max_verstappen
+1095,21,18,São Paulo Grand Prix,13/11/2022,18:00:00,71801,842,23.0,0,gasly
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71804,844,308.0,3,leclerc
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71805,832,246.0,1,sainz
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71806,1,240.0,0,hamilton
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71807,847,275.0,1,russell
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71808,825,25.0,0,kevin_magnussen
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71809,822,49.0,0,bottas
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71810,839,92.0,0,ocon
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71811,852,12.0,0,tsunoda
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71812,4,81.0,0,alonso
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71813,855,6.0,0,zhou
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71815,840,18.0,0,stroll
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71816,848,4.0,0,albon
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71817,817,37.0,0,ricciardo
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71818,846,122.0,0,norris
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71820,807,0.0,0,hulkenberg
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71821,815,305.0,2,perez
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71822,830,454.0,15,max_verstappen
+1096,22,24,Abu Dhabi Grand Prix,20/11/2022,13:00:00,71823,842,23.0,0,gasly
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72006,830,25.0,4,max_verstappen
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72007,815,18.0,2,perez
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72008,4,15.0,0,alonso
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72009,832,12.0,0,sainz
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72010,1,10.0,0,hamilton
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72011,840,8.0,0,stroll
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72012,847,6.0,0,russell
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72013,822,4.0,0,bottas
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72014,842,2.0,0,gasly
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72015,848,1.0,0,albon
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72016,852,0.0,0,tsunoda
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72017,858,0.0,0,sargeant
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72018,825,0.0,0,kevin_magnussen
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72020,807,0.0,0,hulkenberg
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72021,855,0.0,0,zhou
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72022,846,0.0,0,norris
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72023,839,0.0,0,ocon
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72024,844,0.0,0,leclerc
+1098,1,3,Bahrain Grand Prix,05/03/2023,15:00:00,72025,857,0.0,0,piastri
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71886,830,44.0,0,max_verstappen
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71887,815,43.0,0,perez
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71888,4,30.0,0,alonso
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71889,832,20.0,0,sainz
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71890,1,20.0,0,hamilton
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71891,840,8.0,0,stroll
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71892,847,18.0,0,russell
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71893,822,4.0,0,bottas
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71894,842,4.0,0,gasly
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71895,848,1.0,0,albon
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71896,852,0.0,0,tsunoda
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71897,858,0.0,0,sargeant
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71898,825,1.0,0,kevin_magnussen
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71900,807,0.0,0,hulkenberg
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71901,855,0.0,0,zhou
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71902,846,0.0,0,norris
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71903,839,4.0,0,ocon
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71904,844,6.0,0,leclerc
+1099,2,77,Saudi Arabian Grand Prix,19/03/2023,17:00:00,71905,857,0.0,1,piastri
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71906,830,69.0,0,max_verstappen
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71907,815,54.0,0,perez
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71908,4,45.0,0,alonso
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71909,832,20.0,0,sainz
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71910,1,38.0,0,hamilton
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71911,840,20.0,0,stroll
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71912,847,18.0,0,russell
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71913,822,4.0,0,bottas
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71914,842,4.0,0,gasly
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71915,848,1.0,0,albon
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71916,852,1.0,0,tsunoda
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71917,858,0.0,1,sargeant
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71918,825,1.0,0,kevin_magnussen
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71920,807,6.0,0,hulkenberg
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71921,855,2.0,0,zhou
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71922,846,8.0,0,norris
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71923,839,4.0,0,ocon
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71924,844,6.0,0,leclerc
+1100,3,1,Australian Grand Prix,02/04/2023,05:00:00,71925,857,4.0,1,piastri
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71926,830,93.0,2,max_verstappen
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71927,815,87.0,1,perez
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71928,4,60.0,0,alonso
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71929,832,34.0,0,sainz
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71930,1,48.0,0,hamilton
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71931,840,27.0,0,stroll
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71932,847,28.0,0,russell
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71933,822,4.0,0,bottas
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71934,842,4.0,0,gasly
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71935,848,1.0,0,albon
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71936,852,2.0,0,tsunoda
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71937,858,0.0,0,sargeant
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71938,825,1.0,0,kevin_magnussen
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71940,807,6.0,0,hulkenberg
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71941,855,2.0,0,zhou
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71942,846,10.0,0,norris
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71943,839,4.0,0,ocon
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71944,844,28.0,0,leclerc
+1101,4,73,Azerbaijan Grand Prix,30/04/2023,11:00:00,71945,857,4.0,0,piastri
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71946,830,119.0,2,max_verstappen
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71947,815,105.0,2,perez
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71948,4,75.0,0,alonso
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71949,832,44.0,0,sainz
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71950,1,56.0,0,hamilton
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71951,840,27.0,0,stroll
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71952,847,40.0,0,russell
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71953,822,4.0,0,bottas
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71954,842,8.0,0,gasly
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71955,848,1.0,0,albon
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71956,852,2.0,0,tsunoda
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71957,858,0.0,0,sargeant
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71958,825,2.0,0,kevin_magnussen
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71960,807,6.0,0,hulkenberg
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71961,855,2.0,0,zhou
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71962,846,10.0,0,norris
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71963,839,6.0,0,ocon
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71964,844,34.0,0,leclerc
+1102,5,79,Miami Grand Prix,07/05/2023,19:30:00,71965,857,4.0,0,piastri
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71966,830,144.0,3,max_verstappen
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71967,815,105.0,2,perez
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71968,4,93.0,0,alonso
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71969,832,48.0,0,sainz
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71970,1,69.0,0,hamilton
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71971,840,27.0,0,stroll
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71972,847,50.0,0,russell
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71973,822,4.0,0,bottas
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71974,842,14.0,0,gasly
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71975,848,1.0,0,albon
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71976,852,2.0,0,tsunoda
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71977,858,0.0,0,sargeant
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71978,825,2.0,0,kevin_magnussen
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71980,807,6.0,0,hulkenberg
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71981,855,2.0,0,zhou
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71982,846,12.0,0,norris
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71983,839,21.0,0,ocon
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71984,844,42.0,0,leclerc
+1104,6,6,Monaco Grand Prix,28/05/2023,13:00:00,71985,857,5.0,0,piastri
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72026,830,170.0,5,max_verstappen
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72027,815,117.0,2,perez
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72028,4,99.0,0,alonso
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72029,832,58.0,0,sainz
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72030,1,87.0,0,hamilton
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72031,840,35.0,0,stroll
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72032,847,65.0,0,russell
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72033,822,4.0,0,bottas
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72034,842,15.0,0,gasly
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72035,848,1.0,0,albon
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72036,852,2.0,0,tsunoda
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72037,858,0.0,0,sargeant
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72038,825,2.0,0,kevin_magnussen
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72040,807,6.0,0,hulkenberg
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72041,855,4.0,0,zhou
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72042,846,12.0,0,norris
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72043,839,25.0,0,ocon
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72044,844,42.0,0,leclerc
+1105,7,4,Spanish Grand Prix,04/06/2023,13:00:00,72045,857,5.0,0,piastri
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72066,830,195.0,0,max_verstappen
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72067,815,126.0,0,perez
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72068,4,117.0,0,alonso
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72069,832,68.0,0,sainz
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72070,1,102.0,0,hamilton
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72071,840,37.0,0,stroll
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72072,847,65.0,0,russell
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72073,822,5.0,0,bottas
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72074,842,15.0,0,gasly
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72075,848,7.0,0,albon
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72076,852,2.0,0,tsunoda
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72077,858,0.0,0,sargeant
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72078,825,2.0,0,kevin_magnussen
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72080,807,6.0,0,hulkenberg
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72081,855,4.0,0,zhou
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72082,846,12.0,2,norris
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72083,839,29.0,6,ocon
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72084,844,54.0,0,leclerc
+1106,8,7,Canadian Grand Prix,18/06/2023,18:00:00,72085,857,5.0,0,piastri
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72106,830,229.0,0,max_verstappen
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72107,815,148.0,0,perez
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72108,4,131.0,0,alonso
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72109,832,82.0,0,sainz
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72110,1,106.0,0,hamilton
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72111,840,44.0,0,stroll
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72112,847,72.0,0,russell
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72113,822,5.0,0,bottas
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72114,842,16.0,0,gasly
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72115,848,7.0,0,albon
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72116,852,2.0,0,tsunoda
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72117,858,0.0,0,sargeant
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72118,825,2.0,0,kevin_magnussen
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72120,807,9.0,0,hulkenberg
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72121,855,4.0,0,zhou
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72122,846,24.0,0,norris
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72123,839,31.0,7,ocon
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72124,844,72.0,0,leclerc
+1107,9,70,Austrian Grand Prix,02/07/2023,13:00:00,72125,857,5.0,0,piastri
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72126,830,255.0,8,max_verstappen
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72127,815,156.0,2,perez
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72128,4,137.0,0,alonso
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72129,832,83.0,0,sainz
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72130,1,121.0,0,hamilton
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72131,840,44.0,0,stroll
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72132,847,82.0,0,russell
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72133,822,5.0,0,bottas
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72134,842,16.0,0,gasly
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72135,848,11.0,0,albon
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72136,852,2.0,0,tsunoda
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72137,858,0.0,0,sargeant
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72138,825,2.0,0,kevin_magnussen
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72140,807,9.0,0,hulkenberg
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72141,855,4.0,0,zhou
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72142,846,42.0,0,norris
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72143,839,31.0,0,ocon
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72144,844,74.0,0,leclerc
+1108,10,9,British Grand Prix,09/07/2023,14:00:00,72145,857,17.0,0,piastri
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72146,830,281.0,9,max_verstappen
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72147,815,171.0,2,perez
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72148,4,139.0,0,alonso
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72149,832,87.0,0,sainz
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72150,1,133.0,0,hamilton
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72151,840,45.0,0,stroll
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72152,847,90.0,0,russell
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72153,822,5.0,0,bottas
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72154,842,16.0,0,gasly
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72155,848,11.0,0,albon
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72156,852,2.0,0,tsunoda
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72157,858,0.0,0,sargeant
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72158,825,2.0,0,kevin_magnussen
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72160,807,9.0,0,hulkenberg
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72161,855,4.0,0,zhou
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72162,846,60.0,0,norris
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72163,839,31.0,0,ocon
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72164,844,80.0,0,leclerc
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72165,857,27.0,0,piastri
+1109,11,11,Hungarian Grand Prix,23/07/2023,13:00:00,72166,817,0.0,0,ricciardo
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72167,830,314.0,10,max_verstappen
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72168,815,189.0,2,perez
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72169,4,149.0,0,alonso
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72170,832,92.0,0,sainz
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72171,1,148.0,0,hamilton
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72172,840,47.0,0,stroll
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72173,847,99.0,0,russell
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72174,822,5.0,0,bottas
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72175,842,22.0,0,gasly
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72176,848,11.0,0,albon
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72177,852,3.0,0,tsunoda
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72178,858,0.0,0,sargeant
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72179,825,2.0,0,kevin_magnussen
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72181,807,9.0,0,hulkenberg
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72182,855,4.0,0,zhou
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72183,846,69.0,0,norris
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72184,839,35.0,0,ocon
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72185,844,99.0,0,leclerc
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72186,857,34.0,0,piastri
+1110,12,13,Belgian Grand Prix,30/07/2023,13:00:00,72187,817,0.0,0,ricciardo
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72188,830,339.0,11,max_verstappen
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72189,815,201.0,2,perez
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72190,4,168.0,0,alonso
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72191,832,102.0,0,sainz
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72192,1,156.0,0,hamilton
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72193,840,47.0,0,stroll
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72194,847,99.0,0,russell
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72195,822,5.0,0,bottas
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72196,842,37.0,0,gasly
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72197,848,15.0,0,albon
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72198,852,3.0,0,tsunoda
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72199,858,0.0,0,sargeant
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72200,825,2.0,0,kevin_magnussen
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72202,807,9.0,0,hulkenberg
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72203,855,4.0,0,zhou
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72204,846,75.0,0,norris
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72205,839,36.0,0,ocon
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72206,844,99.0,0,leclerc
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72207,857,36.0,0,piastri
+1111,13,39,Dutch Grand Prix,27/08/2023,13:00:00,72208,817,0.0,0,ricciardo
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72232,830,364.0,0,max_verstappen
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72233,815,219.0,0,perez
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72234,4,170.0,0,alonso
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72235,832,117.0,0,sainz
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72236,1,164.0,0,hamilton
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72237,840,47.0,0,stroll
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72238,847,109.0,0,russell
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72239,822,6.0,0,bottas
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72240,842,37.0,0,gasly
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72241,848,21.0,0,albon
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72242,852,3.0,0,tsunoda
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72243,858,0.0,0,sargeant
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72244,825,2.0,0,kevin_magnussen
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72246,807,9.0,0,hulkenberg
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72247,855,4.0,0,zhou
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72248,846,79.0,0,norris
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72249,839,36.0,2,ocon
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72250,844,111.0,12,leclerc
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72251,857,36.0,0,piastri
+1112,14,14,Italian Grand Prix,03/09/2023,13:00:00,72252,817,0.0,0,ricciardo
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72276,830,374.0,0,max_verstappen
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72277,815,223.0,0,perez
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72278,4,170.0,0,alonso
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72279,832,142.0,0,sainz
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72280,1,180.0,0,hamilton
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72281,840,47.0,0,stroll
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72282,847,109.0,0,russell
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72283,822,6.0,0,bottas
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72284,842,45.0,0,gasly
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72285,848,21.0,0,albon
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72286,852,3.0,0,tsunoda
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72287,858,0.0,0,sargeant
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72288,825,3.0,0,kevin_magnussen
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72290,807,9.0,0,hulkenberg
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72291,855,4.0,1,zhou
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72292,846,97.0,0,norris
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72293,839,36.0,2,ocon
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72294,844,123.0,12,leclerc
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72295,857,42.0,0,piastri
+1113,15,15,Singapore Grand Prix,17/09/2023,12:00:00,72296,817,0.0,0,ricciardo
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72298,830,400.0,13,max_verstappen
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72299,815,223.0,2,perez
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72300,4,174.0,0,alonso
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72301,832,150.0,1,sainz
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72302,1,190.0,0,hamilton
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72303,840,47.0,0,stroll
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72304,847,115.0,0,russell
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72305,822,6.0,0,bottas
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72306,842,46.0,0,gasly
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72307,848,21.0,0,albon
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72308,852,3.0,0,tsunoda
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72309,858,0.0,0,sargeant
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72310,825,3.0,0,kevin_magnussen
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72312,807,9.0,0,hulkenberg
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72313,855,4.0,0,zhou
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72314,846,115.0,0,norris
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72315,839,38.0,0,ocon
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72316,844,135.0,0,leclerc
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72317,857,57.0,0,piastri
+1114,16,22,Japanese Grand Prix,24/09/2023,05:00:00,72318,817,0.0,0,ricciardo
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72342,830,433.0,0,max_verstappen
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72343,815,224.0,0,perez
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72344,4,183.0,0,alonso
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72345,832,153.0,0,sainz
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72346,1,194.0,0,hamilton
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72347,840,47.0,0,stroll
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72348,847,132.0,0,russell
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72349,822,10.0,0,bottas
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72350,842,46.0,0,gasly
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72351,848,23.0,0,albon
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72352,852,3.0,0,tsunoda
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72353,858,0.0,0,sargeant
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72354,825,3.0,2,kevin_magnussen
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72356,807,9.0,1,hulkenberg
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72357,855,6.0,0,zhou
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72358,846,136.0,0,norris
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72359,839,44.0,0,ocon
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72360,844,145.0,0,leclerc
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72361,857,83.0,14,piastri
+1115,17,78,Qatar Grand Prix,08/10/2023,17:00:00,72362,817,0.0,0,ricciardo
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72386,830,466.0,0,max_verstappen
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72387,815,240.0,0,perez
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72388,4,183.0,0,alonso
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72389,832,171.0,0,sainz
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72390,1,201.0,0,hamilton
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72391,840,53.0,0,stroll
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72392,847,143.0,0,russell
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72393,822,10.0,0,bottas
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72394,842,56.0,0,gasly
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72395,848,25.0,0,albon
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72396,852,8.0,0,tsunoda
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72397,858,1.0,0,sargeant
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72398,825,3.0,2,kevin_magnussen
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72400,807,9.0,0,hulkenberg
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72401,855,6.0,1,zhou
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72402,846,159.0,0,norris
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72403,839,44.0,0,ocon
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72404,844,151.0,0,leclerc
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72405,857,83.0,15,piastri
+1116,18,69,United States Grand Prix,22/10/2023,19:00:00,72406,817,0.0,0,ricciardo
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72408,830,491.0,16,max_verstappen
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72409,815,240.0,2,perez
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72410,4,183.0,0,alonso
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72411,832,183.0,1,sainz
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72412,1,220.0,0,hamilton
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72413,840,53.0,0,stroll
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72414,847,151.0,0,russell
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72415,822,10.0,0,bottas
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72416,842,56.0,0,gasly
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72417,848,27.0,0,albon
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72418,852,8.0,0,tsunoda
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72419,858,1.0,0,sargeant
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72420,825,3.0,0,kevin_magnussen
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72422,807,9.0,0,hulkenberg
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72423,855,6.0,0,zhou
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72424,846,169.0,0,norris
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72425,839,45.0,0,ocon
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72426,844,166.0,0,leclerc
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72427,857,87.0,0,piastri
+1117,19,32,Mexico City Grand Prix,29/10/2023,20:00:00,72428,817,6.0,0,ricciardo
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72430,830,524.0,17,max_verstappen
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72431,815,258.0,2,perez
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72432,4,198.0,0,alonso
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72433,832,192.0,1,sainz
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72434,1,226.0,0,hamilton
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72435,840,63.0,0,stroll
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72436,847,156.0,0,russell
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72437,822,10.0,0,bottas
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72438,842,62.0,0,gasly
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72439,848,27.0,0,albon
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72440,852,13.0,0,tsunoda
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72441,858,1.0,0,sargeant
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72442,825,3.0,0,kevin_magnussen
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72444,807,9.0,0,hulkenberg
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72445,855,6.0,0,zhou
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72446,846,195.0,0,norris
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72447,839,46.0,0,ocon
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72448,844,170.0,0,leclerc
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72449,857,87.0,0,piastri
+1118,20,18,São Paulo Grand Prix,05/11/2023,17:00:00,72450,817,6.0,0,ricciardo
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72474,830,549.0,0,max_verstappen
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72475,815,273.0,0,perez
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72476,4,200.0,0,alonso
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72477,832,200.0,0,sainz
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72478,1,232.0,0,hamilton
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72479,840,73.0,0,stroll
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72480,847,160.0,0,russell
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72481,822,10.0,0,bottas
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72482,842,62.0,0,gasly
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72483,848,27.0,0,albon
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72484,852,13.0,0,tsunoda
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72485,858,1.0,0,sargeant
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72486,825,3.0,0,kevin_magnussen
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72488,807,9.0,0,hulkenberg
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72489,855,6.0,0,zhou
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72490,846,195.0,0,norris
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72491,839,58.0,1,ocon
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72492,844,188.0,0,leclerc
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72493,857,89.0,2,piastri
+1119,21,80,Las Vegas Grand Prix,19/11/2023,06:00:00,72494,817,6.0,18,ricciardo
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72496,830,575.0,19,max_verstappen
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72497,815,285.0,2,perez
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72498,4,206.0,0,alonso
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72499,832,200.0,1,sainz
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72500,1,234.0,0,hamilton
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72501,840,74.0,0,stroll
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72502,847,175.0,0,russell
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72503,822,10.0,0,bottas
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72504,842,62.0,0,gasly
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72505,848,27.0,0,albon
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72506,852,17.0,0,tsunoda
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72507,858,1.0,0,sargeant
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72508,825,3.0,0,kevin_magnussen
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72510,807,9.0,0,hulkenberg
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72511,855,6.0,0,zhou
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72512,846,205.0,0,norris
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72513,839,58.0,0,ocon
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72514,844,206.0,0,leclerc
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72515,857,97.0,0,piastri
+1120,22,24,Abu Dhabi Grand Prix,26/11/2023,13:00:00,72516,817,6.0,0,ricciardo
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72558,830,26.0,0,max_verstappen
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72559,815,18.0,0,perez
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72560,832,15.0,0,sainz
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72561,844,12.0,0,leclerc
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72562,847,10.0,0,russell
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72563,846,8.0,0,norris
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72564,1,6.0,0,hamilton
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72565,857,4.0,0,piastri
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72566,4,2.0,0,alonso
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72567,840,1.0,0,stroll
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72568,855,0.0,0,zhou
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72569,825,0.0,0,kevin_magnussen
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72570,817,0.0,0,ricciardo
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72571,852,0.0,0,tsunoda
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72572,848,0.0,0,albon
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72573,807,0.0,0,hulkenberg
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72574,839,0.0,1,ocon
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72575,842,0.0,0,gasly
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72576,822,0.0,0,bottas
+1121,1,3,Bahrain Grand Prix,02/03/2024,15:00:00,72577,858,0.0,0,sargeant
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72578,830,51.0,2,max_verstappen
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72579,815,36.0,0,perez
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72580,832,15.0,0,sainz
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72581,844,28.0,0,leclerc
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72582,847,18.0,0,russell
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72583,846,12.0,0,norris
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72584,1,8.0,0,hamilton
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72585,857,16.0,0,piastri
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72586,4,12.0,0,alonso
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72587,840,1.0,0,stroll
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72588,855,0.0,0,zhou
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72589,825,0.0,0,kevin_magnussen
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72590,817,0.0,0,ricciardo
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72591,852,0.0,0,tsunoda
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72592,848,0.0,0,albon
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72593,807,1.0,0,hulkenberg
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72594,839,0.0,0,ocon
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72595,842,0.0,0,gasly
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72596,822,0.0,0,bottas
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72597,858,0.0,0,sargeant
+1122,2,77,Saudi Arabian Grand Prix,09/03/2024,17:00:00,72598,860,6.0,0,bearman
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72641,830,51.0,0,max_verstappen
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72642,815,46.0,0,perez
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72643,832,40.0,0,sainz
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72644,844,47.0,0,leclerc
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72645,847,18.0,0,russell
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72646,846,27.0,0,norris
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72647,1,8.0,0,hamilton
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72648,857,28.0,0,piastri
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72649,4,16.0,0,alonso
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72650,840,9.0,0,stroll
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72651,855,0.0,0,zhou
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72652,825,1.0,0,kevin_magnussen
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72653,817,0.0,0,ricciardo
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72654,852,6.0,0,tsunoda
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72655,848,0.0,0,albon
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72656,807,3.0,2,hulkenberg
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72657,839,0.0,0,ocon
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72658,842,0.0,0,gasly
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72659,822,0.0,0,bottas
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72660,858,0.0,0,sargeant
+1123,3,1,Australian Grand Prix,24/03/2024,04:00:00,72661,860,6.0,1,bearman
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72662,830,77.0,3,max_verstappen
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72663,815,64.0,0,perez
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72664,832,55.0,1,sainz
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72665,844,59.0,0,leclerc
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72666,847,24.0,0,russell
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72667,846,37.0,0,norris
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72668,1,10.0,0,hamilton
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72669,857,32.0,0,piastri
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72670,4,24.0,0,alonso
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72671,840,9.0,0,stroll
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72672,855,0.0,0,zhou
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72673,825,1.0,0,kevin_magnussen
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72674,817,0.0,0,ricciardo
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72675,852,7.0,0,tsunoda
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72676,848,0.0,0,albon
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72677,807,3.0,0,hulkenberg
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72678,839,0.0,0,ocon
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72679,842,0.0,0,gasly
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72680,822,0.0,0,bottas
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72681,858,0.0,0,sargeant
+1124,4,22,Japanese Grand Prix,07/04/2024,05:00:00,72682,860,6.0,0,bearman
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72683,830,110.0,4,max_verstappen
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72684,815,85.0,0,perez
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72685,832,69.0,1,sainz
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72686,844,76.0,0,leclerc
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72687,847,33.0,0,russell
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72688,846,58.0,0,norris
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72689,1,19.0,0,hamilton
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72690,857,38.0,0,piastri
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72691,4,31.0,0,alonso
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72692,840,9.0,0,stroll
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72693,855,0.0,0,zhou
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72694,825,1.0,0,kevin_magnussen
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72695,817,0.0,0,ricciardo
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72696,852,7.0,0,tsunoda
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72697,848,0.0,0,albon
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72698,807,4.0,0,hulkenberg
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72699,839,0.0,0,ocon
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72700,842,0.0,0,gasly
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72701,822,0.0,0,bottas
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72702,858,0.0,0,sargeant
+1125,5,17,Chinese Grand Prix,21/04/2024,07:00:00,72703,860,6.0,0,bearman
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72704,830,136.0,4,max_verstappen
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72705,815,103.0,0,perez
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72706,832,83.0,1,sainz
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72707,844,98.0,0,leclerc
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72708,847,37.0,0,russell
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72709,846,83.0,1,norris
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72710,1,27.0,0,hamilton
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72711,857,41.0,0,piastri
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72712,4,33.0,0,alonso
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72713,840,9.0,0,stroll
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72714,855,0.0,0,zhou
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72715,825,1.0,0,kevin_magnussen
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72716,817,5.0,0,ricciardo
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72717,852,14.0,0,tsunoda
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72718,848,0.0,0,albon
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72719,807,6.0,0,hulkenberg
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72720,839,1.0,0,ocon
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72721,842,0.0,0,gasly
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72722,822,0.0,0,bottas
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72723,858,0.0,0,sargeant
+1126,6,79,Miami Grand Prix,05/05/2024,20:00:00,72724,860,6.0,0,bearman
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72725,830,161.0,5,max_verstappen
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72726,815,107.0,0,perez
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72727,832,93.0,1,sainz
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72728,844,113.0,0,leclerc
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72729,847,44.0,0,russell
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72730,846,101.0,1,norris
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72731,1,35.0,0,hamilton
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72732,857,53.0,0,piastri
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72733,4,33.0,0,alonso
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72734,840,11.0,0,stroll
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72735,855,0.0,0,zhou
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72736,825,1.0,0,kevin_magnussen
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72737,817,5.0,0,ricciardo
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72738,852,15.0,0,tsunoda
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72739,848,0.0,0,albon
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72740,807,6.0,0,hulkenberg
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72741,839,1.0,0,ocon
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72742,842,0.0,0,gasly
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72743,822,0.0,0,bottas
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72744,858,0.0,0,sargeant
+1127,7,21,Emilia Romagna Grand Prix,19/05/2024,13:00:00,72745,860,6.0,0,bearman
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72767,830,169.0,0,max_verstappen
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72768,815,107.0,0,perez
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72769,832,108.0,0,sainz
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72770,844,138.0,0,leclerc
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72771,847,54.0,0,russell
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72772,846,113.0,0,norris
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72773,1,42.0,0,hamilton
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72774,857,71.0,0,piastri
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72775,4,33.0,1,alonso
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72776,840,11.0,0,stroll
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72777,855,0.0,0,zhou
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72778,825,1.0,0,kevin_magnussen
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72779,817,5.0,0,ricciardo
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72780,852,19.0,0,tsunoda
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72781,848,2.0,0,albon
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72782,807,6.0,5,hulkenberg
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72783,839,1.0,0,ocon
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72784,842,1.0,0,gasly
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72785,822,0.0,0,bottas
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72786,858,0.0,1,sargeant
+1128,8,6,Monaco Grand Prix,26/05/2024,13:00:00,72787,860,6.0,1,bearman
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72788,830,194.0,6,max_verstappen
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72789,815,107.0,0,perez
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72790,832,108.0,1,sainz
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72791,844,138.0,1,leclerc
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72792,847,69.0,0,russell
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72793,846,131.0,1,norris
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72794,1,55.0,0,hamilton
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72795,857,81.0,0,piastri
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72796,4,41.0,0,alonso
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72797,840,17.0,0,stroll
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72798,855,0.0,0,zhou
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72799,825,1.0,0,kevin_magnussen
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72800,817,9.0,0,ricciardo
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72801,852,19.0,0,tsunoda
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72802,848,2.0,0,albon
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72803,807,6.0,0,hulkenberg
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72804,839,2.0,0,ocon
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72805,842,3.0,0,gasly
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72806,822,0.0,0,bottas
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72807,858,0.0,0,sargeant
+1129,9,7,Canadian Grand Prix,09/06/2024,18:00:00,72808,860,6.0,0,bearman
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72809,830,219.0,7,max_verstappen
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72810,815,111.0,0,perez
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72811,832,116.0,1,sainz
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72812,844,148.0,1,leclerc
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72813,847,81.0,0,russell
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72814,846,150.0,1,norris
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72815,1,70.0,0,hamilton
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72816,857,87.0,0,piastri
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72817,4,41.0,0,alonso
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72818,840,17.0,0,stroll
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72819,855,0.0,0,zhou
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72820,825,1.0,0,kevin_magnussen
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72821,817,9.0,0,ricciardo
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72822,852,19.0,0,tsunoda
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72823,848,2.0,0,albon
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72824,807,6.0,0,hulkenberg
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72825,839,3.0,0,ocon
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72826,842,5.0,0,gasly
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72827,822,0.0,0,bottas
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72828,858,0.0,0,sargeant
+1130,10,4,Spanish Grand Prix,23/06/2024,13:00:00,72829,860,6.0,0,bearman
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72830,830,237.0,7,max_verstappen
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72831,815,118.0,0,perez
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72832,832,135.0,1,sainz
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72833,844,150.0,1,leclerc
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72834,847,111.0,1,russell
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72835,846,156.0,1,norris
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72836,1,85.0,0,hamilton
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72837,857,112.0,0,piastri
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72838,4,41.0,0,alonso
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72839,840,17.0,0,stroll
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72840,855,0.0,0,zhou
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72841,825,5.0,0,kevin_magnussen
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72842,817,11.0,0,ricciardo
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72843,852,19.0,0,tsunoda
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72844,848,2.0,0,albon
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72845,807,14.0,0,hulkenberg
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72846,839,3.0,0,ocon
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72847,842,6.0,0,gasly
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72848,822,0.0,0,bottas
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72849,858,0.0,0,sargeant
+1131,11,70,Austrian Grand Prix,30/06/2024,13:00:00,72850,860,6.0,0,bearman
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72851,830,255.0,7,max_verstappen
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72852,815,118.0,0,perez
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72853,832,146.0,1,sainz
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72854,844,150.0,1,leclerc
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72855,847,111.0,1,russell
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72856,846,171.0,1,norris
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72857,1,110.0,1,hamilton
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72858,857,124.0,0,piastri
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72859,4,45.0,0,alonso
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72860,840,23.0,0,stroll
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72861,855,0.0,0,zhou
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72862,825,5.0,0,kevin_magnussen
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72863,817,11.0,0,ricciardo
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72864,852,20.0,0,tsunoda
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72865,848,4.0,0,albon
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72866,807,22.0,0,hulkenberg
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72867,839,3.0,0,ocon
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72868,842,6.0,0,gasly
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72869,822,0.0,0,bottas
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72870,858,0.0,0,sargeant
+1132,12,9,British Grand Prix,07/07/2024,14:00:00,72871,860,6.0,0,bearman
