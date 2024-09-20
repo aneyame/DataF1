@@ -8,7 +8,7 @@ import lightgbm as lgb
 import streamlit as st
 
 # @st.cache
-df = pd.read_csv('merge_all.csv')
+df = pd.read_csv('00_testing_clean.csv')
 
 
 def convert_to_seconds(time_str):
@@ -25,6 +25,11 @@ def convert_to_seconds(time_str):
 
 df['time'] = df['time'].apply(convert_to_seconds)
 df['fastestLapTime'] = df['fastestLapTime'].apply(convert_to_seconds)
+df.replace('\\N', np.nan, inplace=True)
+numeric_cols = df.select_dtypes(include=[np.number]).columns
+df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].mean())
+df['fastestLapSpeed'] = df['fastestLapSpeed'].astype(float)
+
 
 x = df[['circuitId', 'Humidity', 'Rainfall', 'TrackTemp', 'AirTemp', 'WindDirection', 'WindSpeed', 'driverId', 'time',
         'fastestLapTime', 'HighTemp', 'fastestLapSpeed']]
@@ -69,34 +74,42 @@ else:
         driver_encoded = df[df['driverRef'] == driver]['driverId'].iloc[0]
 
         input_data = [
-            [circuit_encoded, df['fastestLapTime'].mean(), 1 if rain == 'Oui' else 0, high_temp, strong_wind, temp,
-             temp_track, humidity, wind_speed, driver_encoded, df['WindDirection'].mean()]]
+            [circuit_encoded, humidity, 1 if rain == 'Oui' else 0, temp_track, temp, df['WindDirection'].mean(),
+             wind_speed,
+             driver_encoded, df['time'].mean(), df['fastestLapTime'].mean(), high_temp, df['fastestLapSpeed'].mean()]]
 
-        if len(input_data[0]) != 13:
-            st.error(f"Erreur = le modèle attend 13 caractéristiques, mais {len(input_data[0])} ont été fournies")
+        if len(input_data[0]) != 12:
+            st.error(f"Erreur = le modèle attend 12 caractéristiques, mais {len(input_data[0])} ont été fournies")
         else:
             input_data_scaled = scaler.transform(input_data)
             position_pred = model.predict(input_data_scaled)[0]
-            results.append(position_pred, driver)
+            results.append((position_pred, driver))  # Correction ici
 
-    results = sorted(results, key=lambda x: x[2])
+    # Trier les résultats en fonction de la position prédite (indice 0 du tuple)
+    results = sorted(results, key=lambda x: x[0])
 
+    # Construire le classement final
     classement_final = []
     for idx, result in enumerate(results):
-        classement_final.append([result[0], result[1], idx + 1, result[2]])
+        classement_final.append([result[1], idx + 1, result[0]])  # Ajouter le pilote, position estimée et score
 
-    classement_df = pd.DataFrame(classement_final, columns=['Pilote', ' Position estimée', 'score'])
-    st.subheader(f"Classement estimé pour le circuit {selected_circuit} avec la météo sélectionnées :")
-    st.dataframe(classement_df)
+    top_3 = classement_final[:3]  # Extraire les trois premiers résultats
+    st.subheader("Top 3 des gagnants de la course")
+    for idx, (driver, _, score) in enumerate(top_3):
+        st.write(f"{idx + 1}. {driver}")  # Utiliser l'index pour le classement
 
     y_pred = model.predict(x_test_scaled)
     mae = metrics.mean_absolute_error(y_test, y_pred)
     mse = metrics.mean_squared_error(y_test, y_pred)
-    st.write = (f"MAE :{mae:.2f}")
-    st.write = (f"MSE :{mse:.2f}")
+    st.write(f"MAE: {mae:.2f}")
+    st.write(f"MSE: {mse:.2f}")
 
-    ndcg_val = ndcg_score(np.asarray([y_test.values.flatten()]), np.asarray([y_pred.values.flatten()]), k=10)
-    st.write = (f"NDCG@10 : {ndcg_val:.2f}")
+    ndcg_val = ndcg_score([y_test.values.flatten()], [y_pred.flatten()], k=10)
+    st.write(f"NDCG@10: {ndcg_val:.2f}")
+
+
+
+
 
 
 
