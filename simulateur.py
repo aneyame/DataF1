@@ -52,10 +52,6 @@ model = lgb.train(params, train_data, num_boost_round=200)
 st.title('Simulateur de courses F1 🏁')
 st.markdown("""
     <style>
-        .main {
-            background-color: #000000;
-            color: white;
-        }
         .reportview-container {
             background-color: #000000;
             color: black;
@@ -133,6 +129,7 @@ else:
     y_pred = model.predict(x_test_scaled)
     mae = metrics.mean_absolute_error(y_test, y_pred)
     mse = metrics.mean_squared_error(y_test, y_pred)
+    rmse = np.sqrt(mse)
 
     # Explication des metriques
     st.subheader('📊 Évaluation du modèle')
@@ -141,8 +138,10 @@ else:
         "Le **MAE** (Mean Absolute Error) mesure l'erreur moyenne entre les positions prédites et les positions réelles. Plus cette valeur est faible, plus le modèle est précis.\n\n")
 
     st.write(f"**MSE**: {mse:.2f}")
-    st.write(
-        "Le **MSE** (Mean Squared Error) est similaire au MAE, mais il pénalise davantage les erreurs importantes. Une valeur faible est aussi un bon indicateur de précision.\n\n")
+    st.write("Le **MSE** (Mean Squared Error) est similaire au MAE, mais il pénalise davantage les erreurs importantes. Une valeur faible est aussi un bon indicateur de précision.\n\n")
+
+    st.write(f"**RMSE**: {rmse:.2f}")
+    st.write("Le **RMSE** (Root Mean Squared Error) est la racine carrée du MSE. Il permet d’interpréter les erreurs sur la même échelle que les valeurs réelles. Comme le MSE, il pénalise plus fortement les grandes erreurs. Une valeur faible indique une bonne précision du modèle.\n\n")
 
     ndcg_val = ndcg_score([y_test.values.flatten()], [y_pred.flatten()], k=10)
     st.write(f"**NDCG@10**: {ndcg_val:.2f}")
